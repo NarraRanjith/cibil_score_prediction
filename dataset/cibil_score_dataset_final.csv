@@ -1,0 +1,1001 @@
+Name,Age,Occupation,Bank,Number_of_Banks,Number_of_Loans,Due_Loans,Hard_Checks,Credit_Limit,Credit_Usage,Monthly_Income,Total_Limit,Debt_to_Income_Ratio,Score_Category
+Jane Smith,37,Lawyer,Axis Bank,2,3,0,10,438323,322302,78380,469593,4.11,Low
+Eva White,22,Engineer,HDFC Bank,1,4,1,8,365631,78948,40911,411628,1.93,Good
+Daniel White,34,Consultant,ICICI Bank,5,5,0,2,416026,188696,64608,434782,2.92,Standard
+Alex Anderson,41,Doctor,ICICI Bank,1,7,1,5,494331,200883,83522,523657,2.41,Standard
+John Harris,54,Doctor,Bank of Baroda,4,2,2,4,484846,279845,72550,498598,3.86,Standard
+Eva Anderson,24,Engineer,Kotak Mahindra,2,5,0,3,102953,44072,112045,113635,0.39,Standard
+Sophia Taylor,43,Nurse,City Bank,2,5,5,10,389757,94649,137994,423053,0.69,Good
+Daniel Anderson,30,Consultant,State Bank,4,5,5,8,165141,100863,58741,193470,1.72,Low
+Emma Smith,40,Accountant,Kotak Mahindra,3,2,0,9,426393,165784,53165,453169,3.12,Standard
+Chris Harris,29,Architect,Union Bank,2,4,4,8,187752,121702,32049,232970,3.8,Low
+Eva White,43,Lawyer,Axis Bank,2,9,7,1,446247,101865,116155,494471,0.88,Good
+Alex Taylor,47,Analyst,Yes Bank,1,7,6,9,295392,152856,43951,330425,3.48,Standard
+John Brown,54,Architect,ICICI Bank,3,2,1,6,132920,62769,115698,159785,0.54,Standard
+Daniel Taylor,52,Doctor,City Bank,3,9,9,3,130131,55221,144036,179737,0.38,Standard
+Daniel Martinez,20,Analyst,ICICI Bank,3,8,0,1,240306,174758,102204,263816,1.71,Low
+Emma Smith,35,Analyst,Yes Bank,1,2,2,7,477831,115409,137065,516810,0.84,Good
+Alex Taylor,50,Developer,Yes Bank,2,5,4,9,271846,211664,58919,303096,3.59,Low
+Emma Thomas,45,Nurse,Bank of Baroda,4,9,7,1,179973,60258,65231,203337,0.92,Standard
+John Lopez,55,Lawyer,HDFC Bank,5,4,0,1,421112,243681,106239,457029,2.29,Standard
+Jane Smith,41,Doctor,City Bank,5,4,2,10,304496,100040,50400,343728,1.98,Standard
+Eva Lopez,50,Lawyer,Bank of Baroda,4,7,3,1,100819,60027,60372,139255,0.99,Standard
+Chris White,49,Engineer,HDFC Bank,1,1,1,5,469741,336806,78318,489462,4.3,Low
+Emma Anderson,54,Consultant,Axis Bank,2,7,2,4,292550,102359,148248,333942,0.69,Standard
+Lily Martinez,26,Engineer,Kotak Mahindra,5,1,0,3,137194,60893,42280,179697,1.44,Standard
+Emma White,23,Teacher,ICICI Bank,4,1,1,4,461078,309419,53791,501184,5.75,Low
+Chris Martinez,51,Teacher,State Bank,2,5,1,0,353657,226851,54251,375198,4.18,Low
+Sophia Smith,23,Analyst,Axis Bank,4,9,8,2,79821,61978,54754,127154,1.13,Low
+Alex Brown,58,Doctor,State Bank,2,7,1,9,179087,98024,94293,200910,1.04,Standard
+Eva Brown,46,Analyst,Bank of Baroda,5,9,5,4,157090,94542,114877,185574,0.82,Low
+Emma Thomas,45,Teacher,IndusInd Bank,3,8,5,1,54883,26068,32758,85209,0.8,Standard
+Jane Brown,54,Lawyer,Bank of Baroda,5,5,1,5,86066,62618,51354,107713,1.22,Low
+Mike Taylor,48,Developer,Yes Bank,3,10,10,8,54101,32499,137151,89935,0.24,Low
+Mike Brown,28,Architect,IndusInd Bank,1,2,2,8,131499,47788,120094,181333,0.4,Standard
+Emma Jackson,33,Architect,ICICI Bank,5,8,4,0,98390,57122,54621,112941,1.05,Standard
+John Smith,41,Teacher,State Bank,3,3,3,8,419972,191764,48811,434693,3.93,Standard
+Jane Brown,29,Developer,State Bank,1,6,4,8,127643,58444,85888,153715,0.68,Standard
+Mike Jackson,22,Nurse,Union Bank,2,4,0,5,459005,245995,89640,495383,2.74,Standard
+Eva Taylor,35,Teacher,Union Bank,2,7,0,2,436171,329175,43137,480693,7.63,Low
+Emma Thomas,30,Doctor,Kotak Mahindra,4,1,1,3,154633,106689,47995,165405,2.22,Low
+Sophia Thomas,34,Lawyer,ICICI Bank,1,4,3,5,196068,140897,109074,212603,1.29,Low
+Sophia Martinez,45,Developer,ICICI Bank,3,1,0,4,143620,78755,79528,178785,0.99,Standard
+John Brown,58,Accountant,IndusInd Bank,3,6,3,9,318132,85701,32715,335343,2.62,Good
+Emma Thomas,22,Accountant,HDFC Bank,1,9,8,10,427188,326439,138339,438076,2.36,Low
+Sophia White,24,Nurse,Yes Bank,5,6,5,1,427358,316257,130066,440224,2.43,Low
+Mike White,40,Accountant,Union Bank,3,9,2,3,270434,161979,47324,296709,3.42,Standard
+Alex Lopez,56,Architect,IndusInd Bank,4,9,0,4,200425,65361,130940,215903,0.5,Standard
+Eva Jackson,49,Consultant,City Bank,4,4,4,7,466145,345278,65082,485492,5.31,Low
+Jane Thomas,52,Analyst,HDFC Bank,3,2,0,10,212749,71225,112232,262046,0.63,Standard
+Alex Smith,22,Lawyer,IndusInd Bank,4,10,1,7,267286,195568,31769,277901,6.16,Low
+Emma White,51,Accountant,City Bank,2,3,0,1,458116,208483,133764,475085,1.56,Standard
+Daniel Harris,23,Developer,Yes Bank,2,2,1,2,470173,225112,101089,502349,2.23,Standard
+Daniel Lopez,40,Consultant,Kotak Mahindra,5,9,6,8,283787,209527,141767,299355,1.48,Low
+Lily Thomas,35,Architect,ICICI Bank,5,8,3,4,280619,69170,56518,299743,1.22,Good
+Emma Thomas,41,Nurse,City Bank,5,2,0,2,171247,73606,92970,218134,0.79,Standard
+Emma Brown,46,Accountant,Union Bank,3,9,7,6,82645,26785,146967,121764,0.18,Standard
+Chris Lopez,21,Analyst,Union Bank,4,8,0,5,206559,134694,136884,227250,0.98,Low
+Daniel Martinez,58,Lawyer,Bank of Baroda,4,4,2,6,304616,66228,70289,336357,0.94,Good
+Chris Taylor,49,Teacher,State Bank,5,9,0,6,360322,194082,92771,380448,2.09,Standard
+Jane White,28,Consultant,Bank of Baroda,2,1,1,6,221627,72471,61956,235288,1.17,Standard
+Sophia White,37,Accountant,Bank of Baroda,3,2,1,0,442704,231823,101241,470232,2.29,Standard
+Emma Brown,22,Engineer,Kotak Mahindra,2,4,0,9,129892,44569,112245,175518,0.4,Standard
+Jane Lopez,33,Consultant,Axis Bank,3,6,1,9,368372,286682,46131,379761,6.21,Low
+Alex Thomas,26,Analyst,HDFC Bank,1,5,4,10,246768,108083,138124,259686,0.78,Standard
+Jane Lopez,60,Lawyer,IndusInd Bank,1,5,5,9,472328,128772,43476,518021,2.96,Good
+John Jackson,54,Accountant,Union Bank,3,2,2,10,228903,47518,68894,245624,0.69,Good
+Lily Brown,47,Nurse,ICICI Bank,4,3,3,2,434720,223032,97048,471936,2.3,Standard
+Eva Martinez,50,Consultant,Axis Bank,4,10,4,5,496542,172448,48590,506621,3.55,Standard
+Mike Harris,35,Consultant,Bank of Baroda,5,10,10,6,226368,49172,149559,251068,0.33,Good
+Alex Harris,33,Nurse,Yes Bank,3,6,2,9,417622,304056,33145,442477,9.17,Low
+John Martinez,32,Doctor,Kotak Mahindra,2,7,7,8,447496,154026,85985,482752,1.79,Standard
+Lily Harris,21,Doctor,Bank of Baroda,3,4,3,3,210540,125982,49316,243694,2.55,Standard
+Lily Martinez,53,Nurse,ICICI Bank,4,9,5,5,418498,197634,115899,447296,1.71,Standard
+Mike Anderson,27,Lawyer,HDFC Bank,3,2,2,8,449606,276102,59607,484820,4.63,Low
+Emma Harris,37,Analyst,HDFC Bank,5,10,4,1,486537,153975,120015,503903,1.28,Standard
+Sophia Taylor,39,Engineer,City Bank,5,3,2,0,78587,41809,94463,99699,0.44,Standard
+Lily Brown,20,Analyst,State Bank,3,8,7,7,228628,71016,44435,253342,1.6,Standard
+Mike Harris,27,Doctor,City Bank,4,8,1,9,380010,232517,43334,408478,5.37,Low
+Alex Lopez,39,Doctor,IndusInd Bank,2,2,2,6,367885,205161,76833,382884,2.67,Standard
+Emma Martinez,44,Consultant,State Bank,4,5,4,6,210107,113705,110700,241977,1.03,Standard
+Eva Brown,33,Lawyer,City Bank,3,2,0,3,141128,74967,45512,174753,1.65,Standard
+John White,48,Analyst,Kotak Mahindra,4,5,0,3,201049,125489,41115,213889,3.05,Low
+Jane Anderson,36,Analyst,ICICI Bank,2,7,1,8,167864,98802,109233,187766,0.9,Standard
+Alex Brown,23,Teacher,ICICI Bank,3,10,9,4,280242,76958,53339,318332,1.44,Good
+Chris Thomas,52,Developer,Bank of Baroda,4,8,1,9,70898,52015,99531,102842,0.52,Low
+Eva Thomas,21,Doctor,ICICI Bank,2,10,9,0,450954,272092,108592,472839,2.51,Low
+Eva Smith,31,Consultant,Kotak Mahindra,5,8,4,2,356881,164712,119054,394749,1.38,Standard
+Jane Harris,42,Accountant,Union Bank,3,6,5,1,499699,148158,49689,529462,2.98,Good
+Lily Thomas,45,Developer,Union Bank,1,8,1,5,182329,71831,111888,211138,0.64,Standard
+Daniel Smith,54,Consultant,Kotak Mahindra,4,1,0,8,239676,137473,75663,256486,1.82,Standard
+Lily Smith,33,Architect,State Bank,5,3,2,7,416084,204225,65532,458802,3.12,Standard
+Eva Anderson,30,Architect,Axis Bank,5,1,1,1,167807,133466,116734,201997,1.14,Low
+Lily Brown,29,Consultant,Kotak Mahindra,3,9,4,6,487635,238697,64786,502639,3.68,Standard
+Emma Harris,55,Teacher,Axis Bank,4,4,4,8,441272,321068,133396,451414,2.41,Low
+Mike White,41,Developer,Kotak Mahindra,3,1,1,4,489078,270051,142946,508819,1.89,Standard
+Alex Harris,54,Consultant,Bank of Baroda,3,6,4,8,247766,117245,131945,267372,0.89,Standard
+Emma Anderson,56,Accountant,Union Bank,2,7,0,5,440439,213078,71976,460123,2.96,Standard
+Chris Taylor,51,Engineer,Kotak Mahindra,2,9,9,5,102619,74349,81196,141893,0.92,Low
+Jane Martinez,49,Engineer,ICICI Bank,2,7,2,1,296148,198098,124547,337502,1.59,Low
+Sophia Lopez,45,Doctor,Kotak Mahindra,3,9,6,5,378623,238998,136777,393034,1.75,Low
+Daniel Smith,59,Doctor,Axis Bank,2,5,1,1,277526,218414,44832,325395,4.87,Low
+Lily Taylor,39,Engineer,Union Bank,1,6,6,0,203809,84597,86027,232059,0.98,Standard
+Alex Anderson,53,Accountant,Union Bank,5,3,1,2,91402,51706,48961,107329,1.06,Standard
+Eva Anderson,51,Analyst,State Bank,2,4,3,10,183157,87136,72343,201515,1.2,Standard
+Lily Thomas,54,Teacher,Union Bank,1,8,5,9,206842,120664,53838,242074,2.24,Standard
+Mike Harris,39,Lawyer,IndusInd Bank,4,8,1,3,249944,135758,76217,280870,1.78,Standard
+Mike Thomas,21,Accountant,ICICI Bank,3,1,0,9,440684,219477,94776,478460,2.32,Standard
+Emma Lopez,42,Lawyer,City Bank,2,10,4,10,446140,282209,93083,483268,3.03,Low
+Jane Smith,39,Consultant,Bank of Baroda,1,10,5,2,97255,72531,108871,129108,0.67,Low
+Chris Taylor,32,Teacher,ICICI Bank,5,6,4,8,192882,134686,48116,218997,2.8,Low
+Lily Thomas,41,Doctor,Union Bank,4,2,0,3,404588,256723,80224,442025,3.2,Low
+Daniel Jackson,25,Accountant,ICICI Bank,1,5,4,1,288438,121476,102002,331016,1.19,Standard
+Eva White,60,Nurse,Yes Bank,1,4,3,0,374820,273821,100614,419801,2.72,Low
+Sophia Lopez,34,Doctor,State Bank,4,5,5,6,111171,31558,94566,156067,0.33,Good
+Mike Harris,27,Doctor,Yes Bank,2,9,2,6,287839,121643,100282,312919,1.21,Standard
+Chris Lopez,29,Accountant,HDFC Bank,1,8,6,4,67152,41243,80413,82631,0.51,Low
+Lily Harris,35,Nurse,ICICI Bank,1,6,4,10,238048,56258,106148,275693,0.53,Good
+Emma Brown,49,Doctor,City Bank,2,10,0,0,462506,185051,99067,510377,1.87,Standard
+Eva Anderson,24,Developer,IndusInd Bank,2,10,3,3,222259,147718,131789,246633,1.12,Low
+John Thomas,29,Teacher,City Bank,5,5,1,1,396584,285488,122155,412302,2.34,Low
+John Jackson,35,Analyst,Union Bank,3,1,0,4,77472,21387,60827,111176,0.35,Good
+Daniel Brown,24,Consultant,HDFC Bank,4,6,4,9,107175,50501,30375,130497,1.66,Standard
+Eva Smith,53,Architect,Axis Bank,4,1,0,7,494228,217940,141489,505352,1.54,Standard
+Lily Harris,24,Doctor,IndusInd Bank,3,10,2,1,116160,42400,77500,162753,0.55,Standard
+Daniel Jackson,44,Analyst,Axis Bank,5,5,3,8,367418,168321,92118,386173,1.83,Standard
+Daniel Anderson,47,Consultant,Axis Bank,2,7,5,7,259049,116467,44438,272953,2.62,Standard
+Sophia White,40,Architect,Axis Bank,3,3,3,1,97828,68388,149454,130722,0.46,Low
+Chris Brown,43,Teacher,Union Bank,5,1,1,10,114084,50937,77298,133216,0.66,Standard
+John Thomas,58,Architect,Kotak Mahindra,3,2,2,8,161536,47304,68626,201708,0.69,Good
+Emma Brown,42,Developer,Yes Bank,3,2,1,9,168572,115359,48892,214715,2.36,Low
+Eva Lopez,55,Engineer,ICICI Bank,5,5,0,2,193272,120142,149662,230867,0.8,Low
+Sophia Jackson,20,Teacher,State Bank,2,10,10,6,86482,24658,61784,110292,0.4,Good
+Jane Martinez,33,Accountant,Bank of Baroda,4,8,5,2,244014,94429,138504,268732,0.68,Standard
+Eva Lopez,25,Engineer,Union Bank,2,3,0,10,92772,33701,37322,111802,0.9,Standard
+Lily Lopez,48,Accountant,ICICI Bank,3,4,4,1,230969,105772,45366,250345,2.33,Standard
+Eva Harris,53,Architect,ICICI Bank,1,4,3,9,78721,16107,79474,90447,0.2,Good
+Emma Taylor,36,Architect,City Bank,3,2,0,7,441650,202449,121242,479483,1.67,Standard
+Chris Martinez,34,Developer,State Bank,5,6,0,6,439043,98952,78717,452587,1.26,Good
+Lily Brown,40,Analyst,Union Bank,4,10,6,10,268991,100524,121934,285938,0.82,Standard
+John Jackson,30,Analyst,Union Bank,4,6,0,6,492753,129849,116867,540869,1.11,Good
+Eva White,53,Doctor,City Bank,4,5,5,5,166167,66440,39669,207416,1.67,Standard
+Jane Martinez,60,Doctor,City Bank,5,9,3,5,234077,148973,139764,283000,1.07,Low
+Emma Brown,29,Architect,Kotak Mahindra,2,3,1,10,89506,27415,144095,109872,0.19,Standard
+Lily Lopez,57,Consultant,Axis Bank,5,10,5,10,215747,62691,33956,235373,1.85,Good
+Lily Harris,60,Architect,Kotak Mahindra,3,10,0,5,315990,77264,77873,335248,0.99,Good
+Lily Smith,23,Nurse,Union Bank,3,2,2,1,372441,207244,40353,398500,5.14,Standard
+Lily Lopez,55,Engineer,Yes Bank,4,10,10,3,218572,123057,40101,229389,3.07,Standard
+Alex Smith,48,Doctor,Kotak Mahindra,3,2,2,10,140470,31393,104603,177765,0.3,Good
+Lily Martinez,53,Analyst,Bank of Baroda,2,6,2,4,253117,112703,49623,275072,2.27,Standard
+Eva Smith,60,Nurse,ICICI Bank,1,6,0,8,405666,175223,91573,424848,1.91,Standard
+Eva Taylor,41,Doctor,Union Bank,5,3,2,4,393961,243897,128055,438527,1.9,Low
+Alex Lopez,25,Architect,Yes Bank,5,7,5,2,401333,249508,121562,430961,2.05,Low
+Jane White,52,Nurse,Kotak Mahindra,1,6,2,2,162298,65737,91628,199267,0.72,Standard
+Emma Anderson,28,Teacher,Yes Bank,1,5,0,8,454160,237917,124707,486267,1.91,Standard
+John Jackson,59,Teacher,IndusInd Bank,5,7,2,2,144815,101198,88192,155680,1.15,Low
+Alex Harris,22,Accountant,Kotak Mahindra,3,4,3,9,199384,129886,67587,216675,1.92,Low
+Emma Martinez,35,Architect,Kotak Mahindra,4,4,2,10,349064,275992,50432,362996,5.47,Low
+Mike White,52,Developer,State Bank,4,3,1,9,122560,88709,145495,134664,0.61,Low
+Lily Jackson,55,Doctor,Kotak Mahindra,5,2,1,1,450092,133312,109190,471467,1.22,Good
+Daniel Taylor,47,Doctor,Yes Bank,2,8,5,0,267525,62054,95967,288033,0.65,Good
+Sophia Anderson,44,Doctor,Bank of Baroda,3,4,0,5,101948,71721,31424,137925,2.28,Low
+Alex Taylor,22,Architect,Axis Bank,4,3,3,7,372619,75698,139141,410381,0.54,Good
+John Thomas,33,Teacher,HDFC Bank,5,10,8,6,108293,72091,119116,148065,0.61,Low
+Mike Brown,23,Lawyer,Kotak Mahindra,4,10,7,1,108121,75902,102634,135032,0.74,Low
+Eva Martinez,21,Developer,Bank of Baroda,5,4,1,4,275044,55267,104981,317934,0.53,Good
+Emma Lopez,46,Teacher,Yes Bank,1,9,5,1,325806,171520,70112,350703,2.45,Standard
+Daniel Smith,44,Consultant,Axis Bank,1,7,5,4,441809,92667,85531,462085,1.08,Good
+Sophia Anderson,60,Doctor,City Bank,5,6,1,0,234706,123833,65628,250731,1.89,Standard
+Lily Harris,60,Teacher,State Bank,2,2,2,7,69390,26095,98354,104133,0.27,Standard
+Emma Smith,40,Architect,HDFC Bank,5,7,7,4,69199,45116,46401,93083,0.97,Low
+Mike Jackson,23,Nurse,Union Bank,3,2,1,6,259726,167779,82481,273395,2.03,Low
+Sophia Taylor,51,Consultant,Union Bank,3,9,4,1,431200,196067,58692,466909,3.34,Standard
+Eva Taylor,54,Architect,Kotak Mahindra,3,2,0,5,396512,149637,54077,443165,2.77,Standard
+Eva White,30,Consultant,ICICI Bank,3,8,0,5,372359,297474,109309,387418,2.72,Low
+John Brown,60,Accountant,Kotak Mahindra,3,9,2,0,124857,88549,137027,165556,0.65,Low
+John Taylor,24,Lawyer,Kotak Mahindra,3,6,3,9,66979,37713,92575,97504,0.41,Standard
+Sophia Jackson,48,Doctor,HDFC Bank,5,3,2,6,214828,126692,115550,251376,1.1,Standard
+Jane Smith,31,Consultant,Kotak Mahindra,5,7,1,4,456304,162524,138429,491238,1.17,Standard
+Emma Lopez,38,Consultant,Kotak Mahindra,2,2,0,1,287000,87131,51603,300582,1.69,Standard
+Jane Jackson,42,Doctor,City Bank,5,9,4,4,496358,146179,135295,530703,1.08,Good
+Sophia Martinez,34,Doctor,IndusInd Bank,2,3,1,7,63780,26567,114757,101581,0.23,Standard
+Sophia Harris,55,Teacher,Kotak Mahindra,5,2,0,4,258750,206937,55523,286439,3.73,Low
+Daniel White,46,Analyst,Yes Bank,1,3,2,10,88883,41774,44208,105724,0.94,Standard
+Sophia Taylor,55,Analyst,Yes Bank,2,3,3,8,79052,55244,40198,112822,1.37,Low
+Alex Thomas,30,Teacher,ICICI Bank,3,4,2,8,198923,140750,109061,230908,1.29,Low
+Emma Martinez,37,Teacher,IndusInd Bank,3,10,8,1,313493,183266,33676,339190,5.44,Standard
+Eva Taylor,30,Analyst,State Bank,5,6,6,9,71597,49770,66989,92263,0.74,Low
+Jane Smith,56,Architect,Yes Bank,2,10,6,9,385015,83999,100984,401992,0.83,Good
+Mike Thomas,50,Lawyer,Kotak Mahindra,4,5,3,1,411031,96982,38561,434918,2.52,Good
+Chris Harris,49,Lawyer,Bank of Baroda,3,10,2,5,426629,167064,108264,437348,1.54,Standard
+Chris Taylor,43,Developer,Kotak Mahindra,5,2,1,3,294565,80567,129158,324823,0.62,Good
+Emma Taylor,26,Engineer,IndusInd Bank,3,7,6,3,133728,92016,54607,179883,1.69,Low
+Sophia Anderson,30,Consultant,Union Bank,5,8,7,4,310765,66474,56440,322886,1.18,Good
+Daniel Harris,35,Lawyer,Kotak Mahindra,5,6,0,0,197511,98150,61501,225151,1.6,Standard
+Mike Martinez,20,Doctor,State Bank,4,3,2,5,450480,199091,41146,497843,4.84,Standard
+Chris Smith,56,Developer,Kotak Mahindra,2,6,4,4,88551,38237,104029,101491,0.37,Standard
+Daniel Thomas,59,Analyst,Bank of Baroda,1,3,0,6,245663,166299,103890,287369,1.6,Low
+Daniel Jackson,29,Lawyer,City Bank,5,9,6,8,71105,16154,35987,84253,0.45,Good
+Sophia Harris,53,Consultant,Bank of Baroda,2,10,8,2,221948,168419,71232,238056,2.36,Low
+Alex White,59,Architect,IndusInd Bank,5,6,4,8,329099,162545,70449,339654,2.31,Standard
+Mike Harris,21,Nurse,State Bank,3,2,1,9,211311,143280,76746,239818,1.87,Low
+Eva Harris,36,Analyst,IndusInd Bank,5,4,0,9,301893,91264,82184,344675,1.11,Standard
+Chris Taylor,35,Engineer,City Bank,5,2,0,0,281231,109178,55543,311840,1.97,Standard
+Chris Anderson,46,Developer,Bank of Baroda,5,8,0,2,321939,104439,128545,357540,0.81,Standard
+Lily Martinez,44,Nurse,ICICI Bank,2,8,8,5,336404,138791,125117,369724,1.11,Standard
+Eva Harris,32,Lawyer,HDFC Bank,3,9,4,3,206035,136540,46976,222416,2.91,Low
+Lily Jackson,50,Nurse,Union Bank,5,5,2,1,350667,212495,73426,387358,2.89,Low
+Chris Jackson,29,Architect,ICICI Bank,1,5,5,1,231594,174716,147507,274596,1.18,Low
+Lily Anderson,32,Developer,IndusInd Bank,3,9,4,2,107266,61078,43238,150176,1.41,Standard
+Emma Anderson,23,Developer,Kotak Mahindra,2,4,0,1,266688,106189,135839,286530,0.78,Standard
+Jane Taylor,20,Developer,ICICI Bank,2,7,7,7,391069,125014,33104,439550,3.78,Standard
+Sophia Thomas,23,Doctor,City Bank,5,4,4,0,141784,63906,134342,176826,0.48,Standard
+John White,51,Teacher,Bank of Baroda,3,1,0,4,347775,195335,92515,396202,2.11,Standard
+Mike Harris,54,Developer,Bank of Baroda,4,3,3,4,151088,103539,143876,163539,0.72,Low
+Alex Harris,36,Teacher,HDFC Bank,1,6,6,4,347680,210221,68026,368245,3.09,Low
+Alex Lopez,60,Accountant,City Bank,4,9,5,1,260152,156495,49862,300502,3.14,Low
+Alex Harris,40,Lawyer,Bank of Baroda,1,5,3,3,284218,185382,40322,300331,4.6,Low
+Mike Lopez,56,Engineer,Kotak Mahindra,3,6,5,3,82571,49598,124170,107747,0.4,Low
+Mike Taylor,45,Developer,HDFC Bank,3,2,2,4,242698,138041,145920,266830,0.95,Standard
+Alex Harris,29,Consultant,HDFC Bank,5,6,3,8,296849,194261,135837,316080,1.43,Low
+Emma Lopez,25,Developer,Yes Bank,4,9,5,1,345786,92437,130771,366340,0.71,Good
+Daniel Anderson,56,Developer,HDFC Bank,2,3,2,8,281651,75974,95748,325487,0.79,Good
+Eva Harris,25,Developer,IndusInd Bank,4,1,1,2,319089,143352,125514,368983,1.14,Standard
+John Martinez,49,Architect,Axis Bank,1,7,4,0,441016,145862,115379,485310,1.26,Standard
+John White,42,Doctor,City Bank,5,1,0,7,66638,24806,130746,99012,0.19,Standard
+Alex White,43,Accountant,Yes Bank,4,7,6,1,407947,317581,88652,426545,3.58,Low
+Alex Jackson,27,Teacher,State Bank,5,7,2,3,487686,98554,74436,516746,1.32,Good
+Mike Harris,54,Accountant,ICICI Bank,5,7,3,3,291500,118843,77227,329739,1.54,Standard
+Emma Brown,22,Accountant,State Bank,5,1,0,3,85279,22218,35244,120682,0.63,Good
+Lily Lopez,23,Lawyer,State Bank,1,7,7,3,332989,110007,61340,356674,1.79,Standard
+Alex Martinez,38,Lawyer,Bank of Baroda,5,6,4,9,455032,274621,110004,504804,2.5,Low
+Emma Thomas,29,Developer,IndusInd Bank,2,7,4,4,81959,43769,39830,101946,1.1,Standard
+Alex White,55,Consultant,Bank of Baroda,1,6,5,10,249834,167759,104304,292439,1.61,Low
+Chris White,29,Architect,City Bank,4,3,3,3,495299,166028,42767,506278,3.88,Standard
+Lily Smith,55,Accountant,HDFC Bank,4,9,8,2,253643,87688,48693,283929,1.8,Standard
+Sophia Brown,48,Nurse,IndusInd Bank,1,9,3,0,190751,81317,101714,206463,0.8,Standard
+Eva Smith,24,Lawyer,Bank of Baroda,5,9,3,7,159518,115122,95393,175685,1.21,Low
+Mike Smith,33,Lawyer,HDFC Bank,1,8,3,9,418977,135207,89612,449536,1.51,Standard
+Daniel Jackson,38,Accountant,Kotak Mahindra,4,9,5,4,187133,77807,52245,216505,1.49,Standard
+Lily Brown,50,Nurse,HDFC Bank,2,6,2,6,73968,39759,51164,88435,0.78,Standard
+Alex Smith,36,Developer,HDFC Bank,5,10,6,4,129907,41273,66715,177689,0.62,Standard
+Chris Lopez,35,Consultant,Kotak Mahindra,5,6,2,7,429352,251178,77622,462510,3.24,Standard
+Lily Taylor,42,Teacher,State Bank,2,9,7,2,334235,265447,41695,348896,6.37,Low
+Daniel Smith,24,Engineer,City Bank,1,7,2,10,171337,41255,53486,211532,0.77,Good
+John Anderson,52,Consultant,Yes Bank,3,1,1,10,305776,64041,63809,346791,1.0,Good
+Daniel White,20,Engineer,Union Bank,5,5,4,4,58987,29572,63557,97956,0.47,Standard
+Alex Brown,26,Developer,Bank of Baroda,2,4,1,9,326014,114578,115235,345218,0.99,Standard
+Mike White,25,Nurse,Axis Bank,4,8,3,3,207273,126525,46248,254545,2.74,Low
+John Brown,45,Accountant,City Bank,4,9,7,0,383839,78944,93997,396433,0.84,Good
+Jane Harris,47,Nurse,IndusInd Bank,5,2,2,0,170463,55716,77641,199247,0.72,Standard
+Lily Thomas,22,Doctor,Bank of Baroda,3,9,9,10,67250,20687,82551,104056,0.25,Standard
+John Anderson,57,Teacher,Union Bank,4,2,1,2,345676,119010,142328,364129,0.84,Standard
+Daniel Jackson,44,Teacher,Axis Bank,1,9,5,0,101215,46787,87780,135249,0.53,Standard
+Sophia Lopez,59,Analyst,Kotak Mahindra,4,6,0,10,193302,129537,97171,223857,1.33,Low
+Lily Anderson,42,Developer,Axis Bank,4,7,2,10,357167,213016,78979,372638,2.7,Standard
+Eva Thomas,35,Doctor,City Bank,1,5,1,6,423123,283634,119417,460202,2.38,Low
+Chris Jackson,43,Doctor,Axis Bank,1,1,1,7,238700,156780,96314,278197,1.63,Low
+Alex Brown,31,Accountant,Axis Bank,4,9,8,8,263932,69144,64449,276728,1.07,Good
+Sophia Martinez,25,Analyst,Union Bank,5,6,6,6,56470,21182,111345,70209,0.19,Standard
+Jane Martinez,35,Analyst,ICICI Bank,5,3,3,2,122792,44371,127129,148836,0.35,Standard
+Lily Taylor,24,Teacher,Bank of Baroda,4,5,3,4,303876,203475,121717,350628,1.67,Low
+Mike Anderson,60,Consultant,State Bank,5,10,3,7,106084,29841,31041,126213,0.96,Good
+Chris Jackson,59,Accountant,IndusInd Bank,3,8,5,6,477544,331473,141812,494444,2.34,Low
+Alex Thomas,40,Analyst,ICICI Bank,2,8,5,2,258792,202177,68097,293421,2.97,Low
+Lily Lopez,35,Nurse,HDFC Bank,4,5,3,5,109710,83296,50736,157074,1.64,Low
+Eva Martinez,31,Developer,Axis Bank,1,8,3,7,468216,175487,82334,482998,2.13,Standard
+Chris Harris,28,Architect,Union Bank,2,5,5,2,424989,192893,59235,460431,3.26,Standard
+Jane Harris,58,Consultant,Bank of Baroda,5,7,6,8,69275,46721,144577,109570,0.32,Low
+Daniel Lopez,60,Doctor,IndusInd Bank,1,4,2,2,389214,220920,117706,405341,1.88,Standard
+Chris Jackson,47,Doctor,Yes Bank,1,2,1,3,317741,205932,75735,358272,2.72,Low
+Eva Lopez,34,Consultant,City Bank,3,7,7,10,358590,220268,91405,403659,2.41,Low
+Sophia Smith,50,Doctor,City Bank,3,7,1,1,485849,371386,147981,526313,2.51,Low
+Sophia Thomas,41,Consultant,Kotak Mahindra,2,9,7,5,299646,77481,44302,315270,1.75,Good
+Sophia Brown,39,Engineer,City Bank,1,1,1,10,107337,65077,53628,124437,1.21,Low
+Emma Martinez,31,Developer,Union Bank,2,6,4,6,292249,99106,82028,330633,1.21,Standard
+Alex Taylor,60,Accountant,State Bank,4,1,0,7,360485,165005,56145,396799,2.94,Standard
+Emma Anderson,37,Doctor,Kotak Mahindra,5,2,2,2,241780,95646,73086,256005,1.31,Standard
+Jane Thomas,51,Developer,Bank of Baroda,3,10,6,9,255806,141257,71587,288247,1.97,Standard
+Sophia Harris,59,Teacher,Axis Bank,3,10,9,1,402379,112814,109215,444248,1.03,Good
+Emma Thomas,27,Teacher,Union Bank,3,3,3,6,362698,102542,57870,403907,1.77,Good
+Chris Taylor,51,Developer,Bank of Baroda,2,9,2,7,201432,57243,44984,229675,1.27,Good
+Lily Lopez,23,Nurse,Yes Bank,1,8,2,3,477407,205460,89582,489915,2.29,Standard
+Daniel Harris,46,Consultant,HDFC Bank,4,8,7,2,93343,50334,101444,113549,0.5,Standard
+Mike Smith,37,Lawyer,Kotak Mahindra,5,5,1,7,346563,223710,91599,366099,2.44,Low
+Daniel Martinez,27,Analyst,State Bank,1,5,4,5,334186,231780,113914,358175,2.03,Low
+Lily Martinez,33,Accountant,Axis Bank,1,4,2,0,285789,102224,71967,333026,1.42,Standard
+Lily Brown,35,Lawyer,IndusInd Bank,5,6,6,9,381754,174423,34105,431146,5.11,Standard
+Alex Anderson,33,Engineer,Bank of Baroda,5,6,4,4,362925,189905,131476,397847,1.44,Standard
+Mike Thomas,56,Architect,City Bank,5,2,0,6,81082,64500,38178,114772,1.69,Low
+Alex Anderson,29,Nurse,Union Bank,2,7,7,2,352737,204390,133489,390924,1.53,Standard
+Chris Harris,24,Doctor,Bank of Baroda,4,9,4,5,288391,222105,92050,312377,2.41,Low
+Eva Smith,25,Consultant,HDFC Bank,3,2,2,6,164205,128224,37088,188065,3.46,Low
+Lily Thomas,40,Architect,Bank of Baroda,3,9,9,2,346821,246747,143773,358324,1.72,Low
+John Smith,26,Consultant,Union Bank,1,2,0,7,289346,57987,129433,327062,0.45,Good
+Emma Taylor,39,Teacher,City Bank,3,2,2,5,181276,45220,65369,207795,0.69,Good
+John White,60,Architect,Axis Bank,2,7,1,1,50569,16589,113320,72110,0.15,Standard
+Alex Lopez,34,Developer,Union Bank,4,1,0,5,478400,130295,40956,497688,3.18,Good
+Alex Harris,24,Lawyer,ICICI Bank,4,2,2,1,104107,40395,39077,132057,1.03,Standard
+Alex White,28,Teacher,Kotak Mahindra,1,9,9,0,369983,218294,83093,385337,2.63,Standard
+Sophia Anderson,60,Teacher,Axis Bank,4,10,10,7,163898,41304,69103,203482,0.6,Good
+Alex Brown,57,Accountant,Axis Bank,3,7,5,2,179911,65880,144201,217417,0.46,Standard
+Emma Martinez,58,Analyst,ICICI Bank,5,5,5,0,494539,350253,98783,518570,3.55,Low
+Emma Martinez,58,Developer,HDFC Bank,2,7,4,10,78609,52690,117771,105612,0.45,Low
+Lily White,27,Lawyer,Bank of Baroda,4,10,1,8,56326,44617,54127,69848,0.82,Low
+Alex White,56,Accountant,IndusInd Bank,3,9,2,7,453894,110657,42116,491978,2.63,Good
+Jane Smith,36,Lawyer,Yes Bank,1,1,1,8,200202,115545,74829,229659,1.54,Standard
+Chris White,45,Doctor,Axis Bank,5,9,9,2,195473,48899,51565,218488,0.95,Good
+Daniel Anderson,29,Developer,HDFC Bank,3,7,1,4,416307,192539,75780,453773,2.54,Standard
+John Anderson,25,Accountant,City Bank,1,8,0,4,399217,257501,93127,440379,2.77,Low
+Jane Smith,28,Engineer,ICICI Bank,2,8,5,8,321173,215119,100189,341703,2.15,Low
+Alex Jackson,28,Architect,ICICI Bank,1,1,1,6,192596,99055,121316,231221,0.82,Standard
+Eva Brown,51,Consultant,City Bank,5,6,0,7,347211,104208,76490,394587,1.36,Standard
+Mike Brown,56,Doctor,Kotak Mahindra,2,9,0,0,56442,19570,81005,67092,0.24,Standard
+Sophia White,29,Teacher,Bank of Baroda,1,9,6,3,218716,76323,103519,267849,0.74,Standard
+Mike Brown,56,Nurse,State Bank,1,9,0,2,167013,114004,56025,182112,2.03,Low
+Chris Brown,49,Architect,HDFC Bank,3,6,0,8,289466,59277,124728,337377,0.48,Good
+Mike Lopez,39,Analyst,HDFC Bank,2,8,5,9,308663,246521,110807,328140,2.22,Low
+Daniel Anderson,29,Engineer,State Bank,4,1,0,8,231625,134705,72432,262368,1.86,Standard
+Sophia Smith,44,Architect,State Bank,1,4,4,3,270104,133760,31859,289967,4.2,Standard
+Alex Thomas,25,Engineer,Axis Bank,2,9,6,5,290364,227858,147506,330422,1.54,Low
+Eva Brown,52,Teacher,City Bank,4,2,2,9,82654,38103,49331,125385,0.77,Standard
+Emma Thomas,36,Nurse,HDFC Bank,4,6,2,7,192583,65510,143285,223319,0.46,Standard
+Alex Lopez,26,Teacher,Yes Bank,1,3,3,7,214643,95282,44890,251275,2.12,Standard
+Sophia Anderson,48,Architect,ICICI Bank,4,5,0,1,132635,90796,64446,176759,1.41,Low
+Eva Smith,33,Nurse,State Bank,2,2,2,3,236511,103532,124671,246751,0.83,Standard
+Mike Thomas,31,Engineer,Axis Bank,4,8,8,8,180994,46486,89055,199233,0.52,Good
+Alex Brown,20,Engineer,Axis Bank,2,3,1,6,245160,149982,113138,284607,1.33,Low
+Eva Lopez,36,Doctor,Axis Bank,1,2,0,10,282485,193666,113744,330389,1.7,Low
+Sophia Brown,22,Consultant,Union Bank,1,3,3,6,310113,67508,42772,322504,1.58,Good
+Alex Jackson,33,Teacher,IndusInd Bank,3,5,3,2,68166,38750,58655,90464,0.66,Standard
+Emma Thomas,51,Accountant,Union Bank,5,8,0,1,196683,84536,85073,242471,0.99,Standard
+Emma Martinez,35,Developer,Bank of Baroda,1,7,5,7,335484,224392,131500,356369,1.71,Low
+Eva Martinez,40,Accountant,ICICI Bank,3,3,0,5,363060,120322,108766,397803,1.11,Standard
+John Harris,53,Nurse,ICICI Bank,5,4,1,1,179948,106910,58329,212760,1.83,Standard
+Daniel Smith,34,Analyst,Bank of Baroda,4,6,6,2,142327,48666,57494,164854,0.85,Standard
+Sophia Lopez,21,Nurse,Kotak Mahindra,5,10,2,9,148688,104382,119080,196491,0.88,Low
+Daniel Thomas,31,Consultant,Yes Bank,1,2,0,3,365444,121066,31883,399709,3.8,Standard
+Lily Smith,41,Analyst,Bank of Baroda,2,3,2,2,470701,332583,136663,504542,2.43,Low
+John Smith,29,Analyst,Union Bank,2,2,2,5,88027,37337,32122,117815,1.16,Standard
+Eva Brown,41,Architect,Kotak Mahindra,3,3,1,6,465153,271444,147526,495270,1.84,Standard
+Sophia Taylor,55,Analyst,ICICI Bank,3,4,4,2,248382,95402,95809,266557,1.0,Standard
+Alex Taylor,20,Analyst,IndusInd Bank,4,10,0,2,365825,143012,121660,408536,1.18,Standard
+Emma Lopez,26,Consultant,Bank of Baroda,2,6,5,1,174778,71324,115054,214662,0.62,Standard
+Alex Brown,60,Nurse,Bank of Baroda,4,1,1,3,180831,111375,84270,217726,1.32,Low
+Mike Brown,20,Engineer,Union Bank,4,8,6,2,267065,132424,76101,300147,1.74,Standard
+Sophia Martinez,44,Doctor,Axis Bank,4,10,10,10,168270,50076,138551,213821,0.36,Good
+John Thomas,21,Nurse,City Bank,3,2,0,5,139184,101988,85816,183470,1.19,Low
+Jane Martinez,25,Nurse,City Bank,5,10,7,0,276137,211373,130280,308145,1.62,Low
+Eva White,30,Engineer,Yes Bank,1,6,1,3,264580,163595,44860,286102,3.65,Low
+Mike Thomas,39,Lawyer,City Bank,1,1,1,9,338181,238050,90138,376255,2.64,Low
+John Jackson,20,Accountant,Axis Bank,1,5,5,10,364685,178038,78905,386278,2.26,Standard
+John Anderson,30,Architect,Kotak Mahindra,1,8,1,4,461501,202359,102450,510487,1.98,Standard
+Mike Brown,54,Accountant,ICICI Bank,2,6,3,5,147823,69102,51319,193393,1.35,Standard
+Lily Harris,36,Lawyer,Axis Bank,3,10,0,2,444387,274579,87131,479393,3.15,Low
+Jane Jackson,54,Accountant,Yes Bank,5,4,4,0,490819,212163,67359,529490,3.15,Standard
+Chris Martinez,50,Analyst,State Bank,2,8,4,1,256991,190602,113113,285553,1.69,Low
+Daniel Lopez,53,Analyst,City Bank,5,3,0,7,140638,108212,122024,157140,0.89,Low
+Emma Anderson,28,Engineer,City Bank,4,2,2,6,155863,124435,41484,172666,3.0,Low
+Eva Thomas,40,Doctor,Yes Bank,1,7,6,8,220984,157777,41749,232060,3.78,Low
+Lily Smith,59,Analyst,IndusInd Bank,5,7,1,6,128455,37113,110774,165408,0.34,Good
+Eva Brown,26,Analyst,Kotak Mahindra,1,5,4,5,265424,95150,43588,307956,2.18,Standard
+Eva Lopez,50,Engineer,Union Bank,2,5,3,2,374138,211460,128296,419837,1.65,Standard
+John White,41,Lawyer,ICICI Bank,1,8,4,5,60607,24408,43068,99711,0.57,Standard
+Mike Thomas,51,Doctor,ICICI Bank,2,3,2,7,455815,317017,95976,503906,3.3,Low
+Chris Lopez,25,Lawyer,Bank of Baroda,4,4,3,7,448193,228534,135627,460331,1.69,Standard
+John Martinez,30,Doctor,IndusInd Bank,3,9,6,2,459215,326400,117518,488214,2.78,Low
+John Taylor,32,Lawyer,HDFC Bank,1,4,0,7,76507,57443,141634,114074,0.41,Low
+Mike Jackson,49,Developer,IndusInd Bank,4,2,2,0,176845,74890,57770,201451,1.3,Standard
+Lily Taylor,50,Analyst,Axis Bank,5,6,2,2,489171,360370,131827,528965,2.73,Low
+Mike Smith,44,Engineer,HDFC Bank,2,10,3,3,389413,130480,102297,424387,1.28,Standard
+Mike White,52,Engineer,State Bank,1,8,2,10,140807,78948,45007,163623,1.75,Standard
+Emma Thomas,58,Architect,Kotak Mahindra,3,7,6,5,290647,102075,142242,331421,0.72,Standard
+Mike Martinez,59,Accountant,Bank of Baroda,5,2,0,8,397265,309824,46310,430242,6.69,Low
+Daniel Lopez,58,Architect,Bank of Baroda,3,2,1,1,226309,179467,134038,266714,1.34,Low
+Mike Thomas,39,Lawyer,IndusInd Bank,2,9,3,0,472277,337390,84124,508216,4.01,Low
+Chris Jackson,28,Engineer,State Bank,4,5,2,6,262126,113491,30996,296678,3.66,Standard
+Eva Lopez,32,Nurse,City Bank,2,9,7,10,237955,120022,132524,262630,0.91,Standard
+Daniel Taylor,38,Doctor,Bank of Baroda,4,3,2,8,449988,336400,96527,478574,3.49,Low
+Jane Anderson,42,Lawyer,Kotak Mahindra,3,7,5,5,186608,102885,65076,213942,1.58,Standard
+Jane Harris,23,Analyst,Union Bank,5,10,1,7,151996,76042,70291,189174,1.08,Standard
+Daniel Thomas,46,Engineer,Kotak Mahindra,2,3,1,5,264534,209594,118250,290364,1.77,Low
+Alex Jackson,31,Doctor,State Bank,4,6,5,2,214319,124455,30544,251487,4.07,Standard
+Lily Thomas,33,Teacher,Union Bank,5,3,3,1,117845,67017,34282,128862,1.95,Standard
+Chris White,50,Accountant,Yes Bank,1,1,0,5,57380,42186,33440,77431,1.26,Low
+Emma Smith,20,Lawyer,IndusInd Bank,2,6,2,2,103848,44668,133613,138385,0.33,Standard
+Mike Taylor,24,Engineer,Union Bank,3,5,3,8,362669,186583,140201,406679,1.33,Standard
+Alex Jackson,51,Nurse,City Bank,2,3,3,0,169756,56799,137483,219074,0.41,Standard
+Emma Smith,57,Developer,ICICI Bank,2,2,1,10,465302,103492,71611,497262,1.45,Good
+Daniel Lopez,23,Analyst,Union Bank,1,2,2,0,75289,46216,52336,122787,0.88,Low
+Lily White,27,Developer,State Bank,3,8,2,3,414480,253431,86363,440328,2.93,Low
+Mike White,26,Developer,Axis Bank,3,10,9,2,269585,188276,102841,305233,1.83,Low
+Daniel Lopez,27,Architect,ICICI Bank,1,2,1,3,369292,118118,55252,405068,2.14,Standard
+Daniel Anderson,42,Accountant,Kotak Mahindra,3,3,0,8,310232,231499,138599,323612,1.67,Low
+Sophia Anderson,20,Engineer,Axis Bank,1,2,2,10,309052,89466,135032,356922,0.66,Good
+Daniel Brown,26,Architect,City Bank,2,8,4,4,293415,67500,86243,311860,0.78,Good
+John Thomas,43,Nurse,City Bank,4,2,0,0,55071,39166,113397,90657,0.35,Low
+Sophia Jackson,48,Analyst,Union Bank,3,2,1,5,145876,39138,125435,167260,0.31,Good
+Lily Thomas,44,Consultant,City Bank,4,3,0,2,414993,263872,82837,445841,3.19,Low
+Jane White,57,Consultant,IndusInd Bank,5,8,2,9,249098,166273,97800,269481,1.7,Low
+John Taylor,50,Consultant,Bank of Baroda,1,7,7,0,83206,29702,87331,108342,0.34,Standard
+John Martinez,56,Analyst,Axis Bank,2,6,4,8,410836,254861,43051,429115,5.92,Low
+Chris Anderson,50,Nurse,Yes Bank,4,3,0,0,387326,294609,96093,405083,3.07,Low
+Lily Harris,30,Doctor,HDFC Bank,4,6,1,5,195834,45083,112764,243643,0.4,Good
+Daniel White,45,Lawyer,Kotak Mahindra,1,8,7,9,284932,72034,132797,320622,0.54,Good
+Lily Jackson,27,Consultant,State Bank,1,2,1,6,68786,36751,140497,95840,0.26,Standard
+Jane Lopez,59,Architect,Bank of Baroda,5,9,3,10,402045,190459,139751,448280,1.36,Standard
+Sophia Smith,34,Consultant,Bank of Baroda,3,9,9,9,298058,187775,50847,329187,3.69,Low
+Lily Brown,26,Lawyer,Yes Bank,1,6,2,10,469384,176108,56707,485495,3.11,Standard
+Sophia Brown,22,Teacher,HDFC Bank,4,3,3,1,183320,103853,42224,195000,2.46,Standard
+Jane White,33,Consultant,IndusInd Bank,2,6,0,6,74379,56229,87333,85135,0.64,Low
+Jane Harris,49,Analyst,Yes Bank,5,3,3,0,328063,210527,112430,376944,1.87,Low
+Chris Lopez,50,Developer,IndusInd Bank,2,10,2,2,104292,45100,50060,116115,0.9,Standard
+Eva Jackson,52,Accountant,ICICI Bank,4,10,3,4,258598,201230,111015,304228,1.81,Low
+Lily Taylor,28,Accountant,Yes Bank,5,9,4,8,214579,134568,40324,262052,3.34,Low
+Emma Anderson,33,Analyst,City Bank,3,6,5,2,422452,249269,80122,434109,3.11,Standard
+Daniel Martinez,60,Nurse,Union Bank,1,6,4,7,355558,192849,127299,374113,1.51,Standard
+Daniel Thomas,47,Engineer,State Bank,5,2,0,6,126193,29256,89468,159662,0.33,Good
+Emma Thomas,30,Architect,State Bank,3,3,0,4,156955,102359,54452,182665,1.88,Low
+Sophia Harris,26,Analyst,ICICI Bank,5,4,4,6,174568,88428,115527,199100,0.77,Standard
+John White,44,Accountant,IndusInd Bank,3,9,0,0,439897,154318,68918,462599,2.24,Standard
+Lily Anderson,60,Nurse,HDFC Bank,5,9,9,3,456924,290123,100178,482996,2.9,Low
+Mike Harris,31,Doctor,Yes Bank,2,3,0,6,71304,32593,125199,106083,0.26,Standard
+Mike Taylor,30,Analyst,State Bank,3,1,1,7,422081,321835,130976,449151,2.46,Low
+Alex Jackson,58,Engineer,Bank of Baroda,5,5,3,9,338442,140403,116410,351833,1.21,Standard
+Daniel Anderson,31,Developer,Axis Bank,1,9,2,6,334730,174803,66040,350167,2.65,Standard
+Sophia Anderson,33,Nurse,Kotak Mahindra,3,6,2,3,444608,253857,48844,456124,5.2,Standard
+Daniel Smith,27,Nurse,Bank of Baroda,4,4,4,9,177835,137882,113674,225803,1.21,Low
+Chris Brown,44,Architect,Yes Bank,5,5,0,8,481021,318579,143631,497798,2.22,Low
+Daniel Harris,51,Engineer,City Bank,3,4,2,8,93172,71642,44540,133261,1.61,Low
+Daniel Martinez,20,Doctor,Union Bank,2,4,3,1,157782,82465,108105,175822,0.76,Standard
+Jane Taylor,21,Consultant,ICICI Bank,3,1,0,1,78452,24069,44034,97747,0.55,Standard
+Daniel Brown,56,Lawyer,Bank of Baroda,3,7,6,7,380415,168398,67022,407585,2.51,Standard
+John White,27,Developer,Axis Bank,1,10,1,9,73863,45834,147257,95700,0.31,Low
+Sophia Martinez,26,Architect,Union Bank,3,10,1,4,451224,341132,42160,466295,8.09,Low
+Chris Smith,50,Teacher,Yes Bank,5,4,1,6,467737,317355,94781,501421,3.35,Low
+Mike Taylor,39,Nurse,IndusInd Bank,1,9,8,2,114610,25795,149631,138239,0.17,Good
+Eva White,54,Developer,Yes Bank,1,5,1,5,161011,72067,81222,177608,0.89,Standard
+Alex Taylor,31,Lawyer,IndusInd Bank,5,5,1,1,145083,87425,94361,156521,0.93,Low
+John Martinez,49,Developer,IndusInd Bank,1,5,5,1,181432,46977,84230,196253,0.56,Good
+Lily Jackson,42,Teacher,Bank of Baroda,2,2,1,9,86599,64089,93768,101600,0.68,Low
+Lily Harris,41,Analyst,Bank of Baroda,3,10,2,9,347198,145370,57563,384717,2.53,Standard
+Chris Taylor,20,Nurse,Bank of Baroda,2,4,3,4,490459,203880,79185,521010,2.57,Standard
+Lily Harris,48,Nurse,Axis Bank,3,8,8,1,142154,83491,113040,181702,0.74,Standard
+Mike Taylor,54,Lawyer,State Bank,3,2,2,1,59767,42420,135978,80325,0.31,Low
+Eva Lopez,45,Analyst,City Bank,2,1,1,8,332946,160900,53567,362525,3.0,Standard
+Sophia White,34,Analyst,Bank of Baroda,3,3,3,8,317602,80776,31329,339311,2.58,Good
+Daniel Smith,35,Analyst,IndusInd Bank,2,9,2,7,133478,41043,116463,180656,0.35,Standard
+Alex Harris,42,Engineer,State Bank,2,8,3,1,188599,79525,112734,238356,0.71,Standard
+Emma Martinez,43,Accountant,Yes Bank,4,8,0,0,390013,153838,142041,402074,1.08,Standard
+Mike Thomas,57,Developer,Axis Bank,5,3,3,10,248452,104146,45362,280918,2.3,Standard
+Daniel Thomas,44,Lawyer,IndusInd Bank,5,7,5,5,305255,206229,75453,346968,2.73,Low
+John Martinez,28,Consultant,City Bank,2,4,0,8,387367,142739,110478,436688,1.29,Standard
+Alex Taylor,43,Analyst,Kotak Mahindra,1,4,3,5,427621,114604,101628,437949,1.13,Good
+Lily Anderson,57,Teacher,City Bank,4,1,0,0,117048,63685,50760,161241,1.25,Standard
+Alex Martinez,22,Analyst,Union Bank,2,1,0,4,144391,73637,127215,171069,0.58,Standard
+Eva Lopez,60,Engineer,Kotak Mahindra,3,2,0,7,367994,292800,45937,390632,6.37,Low
+Alex Anderson,46,Analyst,City Bank,2,10,2,9,395845,200489,109444,407781,1.83,Standard
+Sophia Harris,58,Analyst,HDFC Bank,1,4,3,6,119317,31636,100248,130826,0.32,Good
+Daniel Martinez,46,Teacher,Yes Bank,5,2,0,7,372305,208449,97894,415842,2.13,Standard
+Daniel Brown,25,Consultant,Union Bank,2,10,8,0,456255,277009,129740,476239,2.14,Low
+Daniel White,43,Engineer,Bank of Baroda,5,7,3,7,463954,306768,58351,497867,5.26,Low
+Eva Lopez,26,Accountant,Yes Bank,2,5,3,3,93944,34756,45045,118162,0.77,Standard
+Chris Thomas,32,Engineer,HDFC Bank,1,10,8,1,322504,65893,33866,353969,1.95,Good
+Sophia White,43,Doctor,IndusInd Bank,2,7,4,4,498254,259921,48161,522656,5.4,Standard
+Sophia Lopez,37,Accountant,Kotak Mahindra,2,7,7,2,244098,130704,40937,262393,3.19,Standard
+Mike Thomas,56,Nurse,City Bank,4,3,0,3,284144,190338,65073,312079,2.92,Low
+Jane Anderson,52,Accountant,Union Bank,3,9,9,10,420561,97247,93120,443618,1.04,Good
+John Brown,29,Consultant,Axis Bank,5,7,1,1,187935,62594,42054,220777,1.49,Standard
+Eva Smith,44,Accountant,City Bank,5,9,4,9,80127,61492,122809,126269,0.5,Low
+Lily Harris,20,Lawyer,Yes Bank,5,5,1,0,461020,258037,115449,490308,2.24,Standard
+Emma Lopez,30,Engineer,Union Bank,3,4,0,2,95530,76242,91216,138022,0.84,Low
+Sophia White,45,Analyst,Yes Bank,2,9,0,1,97272,51530,87155,140869,0.59,Standard
+Eva Jackson,42,Architect,ICICI Bank,2,10,3,7,261789,142660,82421,284441,1.73,Standard
+Alex White,52,Doctor,Yes Bank,5,2,2,4,228240,175336,62780,249575,2.79,Low
+Mike Martinez,56,Architect,Kotak Mahindra,4,7,7,3,447134,180551,55936,475555,3.23,Standard
+Lily Lopez,21,Consultant,HDFC Bank,1,5,0,6,382221,257309,81488,398964,3.16,Low
+Emma Jackson,46,Nurse,Union Bank,5,9,0,4,180158,67086,106499,228665,0.63,Standard
+Sophia Brown,55,Teacher,HDFC Bank,4,6,2,3,350790,126791,70840,371646,1.79,Standard
+Lily Anderson,35,Lawyer,IndusInd Bank,3,4,1,3,487749,170623,134084,511238,1.27,Standard
+Sophia Taylor,26,Doctor,Bank of Baroda,1,8,0,8,72158,51146,124641,114128,0.41,Low
+Eva Jackson,51,Analyst,IndusInd Bank,3,8,2,8,196940,86403,86815,236179,1.0,Standard
+Alex Smith,53,Accountant,City Bank,4,9,0,8,232079,101240,85540,281160,1.18,Standard
+Lily Brown,53,Consultant,Axis Bank,3,1,0,10,160494,68636,127921,188298,0.54,Standard
+Sophia Jackson,59,Architect,IndusInd Bank,2,9,4,3,191247,92335,136940,222136,0.67,Standard
+Sophia Jackson,31,Consultant,ICICI Bank,4,4,3,5,241406,172025,111646,258454,1.54,Low
+Lily Taylor,56,Teacher,Union Bank,5,4,0,4,471573,161034,109599,506676,1.47,Standard
+Chris Anderson,29,Teacher,Yes Bank,4,1,0,6,311933,87554,86270,335021,1.01,Good
+Daniel Jackson,51,Architect,City Bank,3,9,9,0,258877,67149,104336,292005,0.64,Good
+John Anderson,36,Consultant,Yes Bank,1,8,5,4,239248,99571,79015,253459,1.26,Standard
+Mike Jackson,21,Accountant,IndusInd Bank,1,6,6,10,367496,117369,88904,388456,1.32,Standard
+Daniel Taylor,38,Nurse,ICICI Bank,3,9,7,7,91108,39053,146581,103320,0.27,Standard
+Lily Taylor,30,Nurse,Axis Bank,4,10,9,6,495068,368451,97024,521652,3.8,Low
+Alex Jackson,34,Nurse,ICICI Bank,3,5,5,4,367396,215583,106922,404253,2.02,Standard
+Lily Jackson,57,Developer,HDFC Bank,4,7,2,2,497853,106471,68466,547429,1.56,Good
+Mike Brown,33,Teacher,State Bank,4,2,0,1,298085,157705,138355,342851,1.14,Standard
+Chris Martinez,25,Doctor,Union Bank,3,10,2,1,393320,298512,76170,429423,3.92,Low
+Mike Anderson,35,Architect,State Bank,4,3,1,8,489624,148045,33924,507137,4.36,Standard
+Sophia Jackson,50,Consultant,Yes Bank,5,5,4,7,120839,94463,53580,151986,1.76,Low
+Alex Lopez,58,Consultant,Axis Bank,5,7,4,5,302524,158462,86280,324708,1.84,Standard
+Lily Thomas,43,Accountant,City Bank,3,3,2,0,50048,25724,76890,76125,0.33,Standard
+Sophia Thomas,50,Developer,ICICI Bank,1,8,7,4,54788,36134,39521,78890,0.91,Low
+Eva Anderson,20,Developer,City Bank,3,4,3,8,279169,121955,116108,313526,1.05,Standard
+Chris White,34,Architect,IndusInd Bank,1,7,3,8,450838,306559,78754,470343,3.89,Low
+Mike Thomas,54,Architect,Kotak Mahindra,4,4,0,2,121630,45460,132172,152237,0.34,Standard
+Eva Harris,37,Analyst,Yes Bank,4,4,2,0,129770,29818,46030,140401,0.65,Good
+John Taylor,26,Architect,State Bank,3,3,3,0,172059,43723,71758,182773,0.61,Good
+Lily Anderson,41,Accountant,Bank of Baroda,3,8,5,7,415394,280331,123952,446946,2.26,Low
+Jane Taylor,23,Architect,ICICI Bank,4,2,2,7,145212,45788,58019,185710,0.79,Standard
+Chris Smith,27,Lawyer,Axis Bank,4,8,3,0,154427,73585,104379,185500,0.7,Standard
+Daniel Anderson,50,Accountant,Yes Bank,3,6,1,10,431805,97291,147800,457051,0.66,Good
+Daniel Brown,36,Consultant,Axis Bank,3,4,2,0,399540,132117,103615,413880,1.28,Standard
+Emma White,40,Engineer,State Bank,2,5,4,1,257517,173434,80540,286103,2.15,Low
+John Lopez,50,Analyst,Axis Bank,2,6,6,1,180402,53150,108879,204307,0.49,Good
+Eva Jackson,60,Engineer,Axis Bank,1,6,5,2,417697,217959,99109,441948,2.2,Standard
+Alex Harris,34,Nurse,Union Bank,5,6,6,7,434402,137175,43489,481164,3.15,Standard
+Sophia Taylor,36,Engineer,HDFC Bank,4,8,8,4,334548,206825,66444,384387,3.11,Low
+Eva Taylor,54,Nurse,Yes Bank,3,8,4,9,340728,100926,145783,355631,0.69,Good
+Alex Harris,38,Architect,Union Bank,5,6,3,0,456804,266233,105228,494443,2.53,Standard
+Alex Smith,59,Nurse,Union Bank,5,4,2,1,395133,308321,119408,433654,2.58,Low
+Emma Martinez,51,Developer,Axis Bank,2,10,4,5,264855,154819,71652,295834,2.16,Standard
+Jane Martinez,24,Engineer,Axis Bank,2,3,0,3,106127,52132,55971,129045,0.93,Standard
+John Lopez,44,Consultant,IndusInd Bank,5,10,9,4,75735,31794,36509,118105,0.87,Standard
+Jane Smith,33,Consultant,Union Bank,1,8,0,5,342563,221325,95359,355629,2.32,Low
+Sophia Smith,59,Architect,Yes Bank,5,1,0,4,90860,69668,65968,128466,1.06,Low
+Jane Brown,34,Developer,City Bank,4,4,1,8,394392,137744,45631,412524,3.02,Standard
+Daniel Martinez,46,Doctor,Axis Bank,5,6,5,7,418338,250645,89347,439553,2.81,Standard
+Alex Taylor,55,Accountant,Kotak Mahindra,5,6,5,2,329917,263624,108830,361339,2.42,Low
+Sophia Jackson,55,Nurse,Yes Bank,3,7,6,5,368983,127090,107485,404073,1.18,Standard
+Emma White,55,Architect,ICICI Bank,3,8,7,6,50102,31854,60988,97877,0.52,Low
+Eva Smith,53,Teacher,State Bank,3,1,1,3,162629,116025,32787,191309,3.54,Low
+Mike Martinez,52,Developer,City Bank,5,10,2,1,69784,33233,32337,117516,1.03,Standard
+Alex Thomas,43,Analyst,IndusInd Bank,2,4,2,4,98184,53244,30609,138446,1.74,Standard
+Emma Brown,40,Consultant,IndusInd Bank,2,8,1,9,386726,147047,67272,405315,2.19,Standard
+Chris Brown,23,Nurse,IndusInd Bank,3,7,6,1,453906,152526,140315,490304,1.09,Standard
+John White,23,Architect,Yes Bank,5,1,1,8,346177,100304,34850,391138,2.88,Good
+Emma Taylor,23,Accountant,ICICI Bank,4,10,9,8,97229,32402,99142,109792,0.33,Standard
+Chris Taylor,28,Nurse,Union Bank,1,8,0,8,259291,92706,74222,270357,1.25,Standard
+Daniel White,28,Teacher,HDFC Bank,4,9,3,7,257260,152130,39103,298054,3.89,Standard
+Daniel Lopez,53,Lawyer,IndusInd Bank,2,2,1,6,219560,134117,42467,256762,3.16,Low
+Jane Brown,46,Accountant,State Bank,3,6,1,5,230630,128306,124798,260356,1.03,Standard
+Mike Taylor,42,Analyst,HDFC Bank,4,10,2,7,73528,55479,66002,104315,0.84,Low
+Emma Jackson,29,Doctor,ICICI Bank,1,1,0,9,127425,91905,128787,160088,0.71,Low
+John Jackson,27,Architect,HDFC Bank,4,8,0,5,159581,102771,82473,174808,1.25,Low
+Emma Martinez,53,Architect,Yes Bank,5,8,2,10,59640,25404,102935,90164,0.25,Standard
+John Thomas,30,Engineer,State Bank,3,4,4,4,77831,37279,94725,90915,0.39,Standard
+Jane White,37,Nurse,Union Bank,1,1,1,10,252649,85573,81554,282207,1.05,Standard
+Daniel Brown,40,Consultant,Kotak Mahindra,5,9,1,2,154267,77194,121286,194058,0.64,Standard
+Daniel Smith,22,Lawyer,State Bank,5,5,2,7,256254,165703,94662,274210,1.75,Low
+Sophia Jackson,42,Architect,Union Bank,2,9,4,0,378095,134075,140503,412599,0.95,Standard
+John Martinez,37,Lawyer,Union Bank,2,6,3,10,121964,30817,110999,138697,0.28,Good
+Daniel Lopez,60,Lawyer,IndusInd Bank,4,4,4,2,273590,214036,33838,298271,6.33,Low
+Sophia Harris,54,Teacher,Yes Bank,2,3,1,2,212004,129984,36269,222685,3.58,Low
+Alex White,29,Analyst,Axis Bank,2,6,0,8,329425,253381,48184,346315,5.26,Low
+Alex Jackson,29,Engineer,ICICI Bank,3,7,6,4,282261,182726,72317,320813,2.53,Low
+Alex Anderson,26,Teacher,IndusInd Bank,2,1,1,9,347293,197060,59667,368446,3.3,Standard
+Emma Anderson,21,Nurse,Bank of Baroda,1,8,2,8,493620,277823,41536,516147,6.69,Standard
+Alex White,51,Consultant,State Bank,2,3,1,3,66897,29779,124910,101071,0.24,Standard
+Mike White,34,Lawyer,Bank of Baroda,2,2,0,7,373516,184504,136974,418745,1.35,Standard
+Lily Anderson,47,Accountant,IndusInd Bank,1,10,6,5,256648,145495,30647,270088,4.75,Standard
+Eva Martinez,53,Engineer,HDFC Bank,5,2,1,7,483591,351406,64037,496414,5.49,Low
+Daniel Martinez,45,Engineer,ICICI Bank,5,7,0,3,202661,93980,44523,215806,2.11,Standard
+Mike Harris,30,Accountant,Kotak Mahindra,3,10,0,8,124574,59565,69883,139491,0.85,Standard
+Jane Martinez,27,Teacher,State Bank,5,9,2,6,266824,105149,64567,298406,1.63,Standard
+Alex Harris,57,Lawyer,City Bank,4,2,1,5,412659,243116,120167,447533,2.02,Standard
+Jane Brown,27,Consultant,Yes Bank,3,2,2,6,431091,290831,65377,452254,4.45,Low
+Eva Taylor,44,Developer,City Bank,4,1,0,5,346480,250430,48056,394717,5.21,Low
+Alex Taylor,31,Engineer,Axis Bank,4,5,2,7,201404,115983,90384,219261,1.28,Standard
+Alex Anderson,20,Analyst,State Bank,3,1,1,7,498481,248834,46552,529408,5.35,Standard
+Eva Harris,35,Lawyer,IndusInd Bank,5,8,7,6,281669,69753,142970,301368,0.49,Good
+John Anderson,55,Architect,Bank of Baroda,5,9,3,0,146909,42450,128701,195190,0.33,Good
+John Taylor,22,Analyst,City Bank,5,5,2,1,75706,20087,146365,112791,0.14,Good
+Alex Thomas,59,Analyst,State Bank,5,9,2,7,442867,242416,113480,482147,2.14,Standard
+Jane Thomas,40,Nurse,City Bank,4,2,1,8,84039,31573,117586,102058,0.27,Standard
+Jane Thomas,41,Developer,IndusInd Bank,4,9,3,3,370892,87127,98388,415468,0.89,Good
+Daniel Brown,50,Analyst,IndusInd Bank,3,7,5,4,325456,177401,61525,373328,2.88,Standard
+Sophia Taylor,59,Analyst,IndusInd Bank,4,9,7,7,473614,145847,92642,515733,1.57,Standard
+Emma Thomas,32,Engineer,HDFC Bank,1,1,1,10,467717,126637,66771,498813,1.9,Good
+Eva White,46,Engineer,HDFC Bank,3,6,4,10,161326,33359,131271,202960,0.25,Good
+Mike Thomas,24,Architect,Bank of Baroda,3,9,8,5,452145,92092,59600,468161,1.55,Good
+Sophia White,56,Analyst,Kotak Mahindra,1,3,1,5,487164,196211,64578,516578,3.04,Standard
+Lily Smith,28,Consultant,Union Bank,2,8,8,5,292467,196068,123242,307893,1.59,Low
+John Martinez,39,Analyst,Bank of Baroda,3,9,8,0,159189,86987,76269,205791,1.14,Standard
+Sophia Brown,29,Architect,IndusInd Bank,1,6,3,10,330113,232876,139516,355997,1.67,Low
+Eva White,31,Analyst,Union Bank,1,5,5,5,422160,92443,116439,445653,0.79,Good
+Jane Harris,35,Nurse,Bank of Baroda,4,5,1,8,208501,63594,121090,223613,0.53,Standard
+John Anderson,25,Consultant,Kotak Mahindra,5,1,1,8,130781,41082,39849,173195,1.03,Standard
+Daniel Thomas,40,Teacher,Union Bank,1,9,2,3,429883,95405,37899,453807,2.52,Good
+Daniel Brown,20,Architect,Axis Bank,1,10,1,5,294777,216222,31720,318941,6.82,Low
+Daniel Thomas,21,Analyst,Yes Bank,3,4,2,3,150949,56144,91361,186184,0.61,Standard
+Sophia Harris,27,Architect,Yes Bank,2,3,2,1,57998,44947,54630,99956,0.82,Low
+Daniel Brown,33,Developer,ICICI Bank,3,9,5,4,124216,95145,43701,156527,2.18,Low
+Eva Anderson,30,Doctor,State Bank,3,10,5,8,282599,65121,57349,331299,1.14,Good
+Lily Smith,26,Accountant,IndusInd Bank,1,2,1,6,143838,89583,129824,188417,0.69,Low
+Lily Lopez,42,Architect,IndusInd Bank,3,4,4,1,446226,293910,97361,476762,3.02,Low
+Alex Brown,49,Doctor,Kotak Mahindra,4,5,5,10,422357,278712,129678,452792,2.15,Low
+Emma Anderson,29,Analyst,Bank of Baroda,3,6,3,2,416799,312749,122866,456553,2.55,Low
+Sophia Harris,51,Engineer,City Bank,1,8,1,5,300951,143477,115890,321043,1.24,Standard
+Mike Jackson,58,Analyst,Axis Bank,2,9,1,6,478633,300851,141123,521696,2.13,Low
+Sophia Martinez,24,Architect,HDFC Bank,5,8,6,9,266762,91538,43849,285285,2.09,Standard
+Daniel Taylor,50,Accountant,Union Bank,1,6,1,9,276045,185113,58676,309876,3.15,Low
+Eva Jackson,54,Lawyer,IndusInd Bank,2,2,2,9,488697,240428,80538,528347,2.99,Standard
+Eva Harris,40,Developer,Axis Bank,1,8,2,4,262752,63524,143751,306402,0.44,Good
+Eva White,40,Consultant,State Bank,1,2,0,2,354489,263014,56610,390716,4.65,Low
+Alex Taylor,48,Developer,Bank of Baroda,3,7,7,3,157825,96101,54635,172323,1.76,Low
+Mike Lopez,39,Accountant,Union Bank,3,2,2,0,370597,293458,66416,408324,4.42,Low
+Alex Thomas,23,Nurse,Axis Bank,5,1,0,8,480311,378109,51521,510440,7.34,Low
+Mike Smith,35,Accountant,Yes Bank,5,7,5,6,262878,112759,144010,310708,0.78,Standard
+Emma Taylor,50,Teacher,ICICI Bank,2,9,6,5,490382,220839,114984,507070,1.92,Standard
+Alex Taylor,20,Doctor,City Bank,1,3,3,10,278974,218990,49305,319183,4.44,Low
+Jane Taylor,46,Consultant,Kotak Mahindra,5,7,2,7,317080,144105,144844,334103,0.99,Standard
+Chris Jackson,34,Teacher,HDFC Bank,4,10,0,9,311177,220339,127652,328399,1.73,Low
+Daniel Thomas,46,Developer,Bank of Baroda,5,6,0,0,347874,170445,61531,358961,2.77,Standard
+Jane Lopez,50,Doctor,IndusInd Bank,2,9,4,7,321030,79275,147191,361232,0.54,Good
+Jane Anderson,50,Doctor,Yes Bank,5,10,4,9,77668,57641,54514,105150,1.06,Low
+John Harris,49,Developer,ICICI Bank,4,10,5,6,235028,182464,33746,276238,5.41,Low
+Mike Taylor,22,Analyst,City Bank,3,10,4,0,379934,183849,116754,424726,1.57,Standard
+Eva Smith,38,Analyst,ICICI Bank,1,5,3,1,116490,58636,89328,149555,0.66,Standard
+Mike Taylor,59,Architect,IndusInd Bank,3,5,0,1,366576,111721,64809,384330,1.72,Standard
+Alex Harris,43,Teacher,State Bank,3,4,3,2,469101,242259,102129,484610,2.37,Standard
+Sophia Brown,29,Analyst,City Bank,2,8,6,6,174752,104222,76455,213029,1.36,Standard
+Emma Lopez,42,Engineer,ICICI Bank,3,2,0,2,293277,128821,57795,313148,2.23,Standard
+Lily Martinez,34,Accountant,State Bank,4,8,4,2,328104,236946,82026,371015,2.89,Low
+Mike Harris,44,Nurse,Union Bank,5,1,0,8,384193,158402,86472,427480,1.83,Standard
+Eva Thomas,41,Architect,HDFC Bank,3,2,1,10,356276,154870,73743,369759,2.1,Standard
+Eva Anderson,53,Nurse,Axis Bank,2,6,4,0,402741,82596,87847,430605,0.94,Good
+John White,26,Developer,HDFC Bank,1,8,5,3,430240,159179,78467,446650,2.03,Standard
+John Smith,59,Doctor,Axis Bank,1,10,10,3,364250,212303,36440,399318,5.83,Standard
+Jane Lopez,28,Accountant,Axis Bank,5,3,0,2,182820,68876,125944,220514,0.55,Standard
+Lily Thomas,47,Nurse,Union Bank,3,3,0,4,457427,108608,55419,486694,1.96,Good
+Sophia Smith,36,Architect,City Bank,2,8,1,7,155208,87876,54831,191598,1.6,Standard
+Lily Brown,29,Developer,ICICI Bank,4,4,4,10,105705,79021,53153,154636,1.49,Low
+Jane Smith,24,Doctor,State Bank,5,5,3,0,310938,89958,66166,355643,1.36,Good
+John White,37,Teacher,Kotak Mahindra,3,7,0,8,420989,321613,109619,463338,2.93,Low
+Lily White,45,Doctor,Kotak Mahindra,5,4,0,6,411371,284169,97976,449785,2.9,Low
+Jane Lopez,54,Nurse,Axis Bank,3,5,3,0,381492,304511,44311,394760,6.87,Low
+Sophia Martinez,41,Doctor,Union Bank,4,5,5,3,142598,75960,114717,168912,0.66,Standard
+Emma Thomas,44,Doctor,City Bank,3,8,1,10,279629,179297,44559,304019,4.02,Low
+John Anderson,21,Analyst,ICICI Bank,2,8,6,1,465623,244141,45097,479105,5.41,Standard
+Lily Martinez,48,Engineer,Union Bank,1,6,0,5,463022,292911,147317,475360,1.99,Low
+Jane Anderson,53,Consultant,Kotak Mahindra,5,3,1,1,69334,44462,105396,96778,0.42,Low
+John Harris,59,Engineer,ICICI Bank,2,3,0,2,381696,87780,61295,396011,1.43,Good
+Jane Harris,59,Teacher,IndusInd Bank,5,2,0,1,310646,173026,99747,327267,1.73,Standard
+Emma Brown,32,Accountant,City Bank,3,7,5,1,408659,222956,66105,433500,3.37,Standard
+Sophia Anderson,22,Analyst,Union Bank,2,6,0,1,193599,55126,145684,230112,0.38,Good
+Alex Jackson,55,Teacher,IndusInd Bank,4,4,4,0,119924,31178,81368,155672,0.38,Good
+Chris Taylor,21,Consultant,IndusInd Bank,1,1,0,2,96735,60367,43278,121145,1.39,Low
+Mike White,50,Teacher,City Bank,2,3,2,8,286149,127971,126196,313730,1.01,Standard
+Eva Smith,58,Teacher,Bank of Baroda,4,10,1,10,483315,323603,94903,506796,3.41,Low
+Chris Smith,55,Lawyer,Yes Bank,2,2,2,1,374492,156216,52417,397833,2.98,Standard
+Daniel Anderson,49,Lawyer,Kotak Mahindra,3,1,0,1,467654,135400,75564,496527,1.79,Good
+Lily Taylor,30,Engineer,IndusInd Bank,1,6,2,3,277893,97493,122517,326972,0.8,Standard
+Lily Smith,26,Engineer,Axis Bank,5,3,1,0,304311,154877,67745,314514,2.29,Standard
+Emma Harris,57,Analyst,Axis Bank,3,7,3,10,220752,74623,42352,242881,1.76,Standard
+Sophia Anderson,26,Lawyer,Kotak Mahindra,4,4,3,3,88550,42734,95960,129794,0.45,Standard
+John White,29,Lawyer,HDFC Bank,5,8,2,6,245813,69281,126874,275822,0.55,Good
+Sophia Thomas,32,Nurse,Kotak Mahindra,2,1,0,4,121566,32417,141747,147204,0.23,Good
+Lily White,30,Nurse,IndusInd Bank,2,5,4,2,463949,313972,52312,494600,6.0,Low
+Alex Lopez,55,Lawyer,Kotak Mahindra,1,7,7,3,360158,174350,119318,374709,1.46,Standard
+Mike Smith,47,Lawyer,IndusInd Bank,2,6,3,9,166605,122470,51842,188882,2.36,Low
+Alex Lopez,20,Accountant,Union Bank,1,1,1,8,67626,30798,73536,107459,0.42,Standard
+Lily Brown,48,Consultant,HDFC Bank,2,2,2,0,413415,264202,48590,424249,5.44,Low
+Alex Jackson,38,Lawyer,Kotak Mahindra,1,1,1,10,209822,62334,117298,250925,0.53,Good
+Eva Lopez,21,Consultant,Kotak Mahindra,4,3,3,2,464113,335522,86088,496005,3.9,Low
+John Brown,44,Nurse,IndusInd Bank,5,1,1,6,444730,160936,32729,466363,4.92,Standard
+Daniel Lopez,33,Doctor,Bank of Baroda,5,6,5,0,319870,245402,64581,334914,3.8,Low
+John Brown,44,Nurse,Yes Bank,4,10,0,5,242116,73884,52377,252753,1.41,Standard
+Jane Martinez,33,Teacher,IndusInd Bank,3,4,4,1,390283,190105,107857,423361,1.76,Standard
+Emma Anderson,40,Nurse,Bank of Baroda,3,9,6,4,78552,18697,92105,126769,0.2,Good
+Lily Harris,52,Developer,ICICI Bank,1,8,8,10,482736,250884,30131,524737,8.33,Standard
+Lily Lopez,43,Doctor,ICICI Bank,2,8,1,1,254830,188260,144454,281050,1.3,Low
+Jane Brown,30,Architect,State Bank,1,3,3,2,157089,80494,91940,174257,0.88,Standard
+Mike White,54,Teacher,ICICI Bank,4,6,3,7,436772,256302,35921,447911,7.14,Standard
+Emma Brown,21,Lawyer,Bank of Baroda,5,6,3,9,229721,136329,104352,258769,1.31,Standard
+Lily Lopez,53,Developer,ICICI Bank,4,8,4,9,119182,88072,139492,144143,0.63,Low
+Alex Thomas,34,Consultant,City Bank,3,5,0,2,235137,87149,98848,278111,0.88,Standard
+Eva Taylor,54,Architect,Bank of Baroda,2,3,1,2,174730,47203,51928,194336,0.91,Good
+Eva Taylor,48,Architect,Bank of Baroda,3,3,1,8,420742,92905,131614,436896,0.71,Good
+Sophia Taylor,43,Consultant,Kotak Mahindra,5,3,2,1,63067,27922,43106,93029,0.65,Standard
+Alex Harris,40,Teacher,Kotak Mahindra,1,9,8,5,389342,242666,135367,421340,1.79,Low
+Mike Lopez,29,Analyst,State Bank,4,6,5,1,433590,211327,89325,475746,2.37,Standard
+Alex Martinez,27,Architect,State Bank,1,7,3,7,237377,60647,126313,270365,0.48,Good
+Eva Anderson,57,Developer,Kotak Mahindra,2,5,1,0,93824,49074,101527,120689,0.48,Standard
+Jane Martinez,45,Lawyer,Bank of Baroda,4,6,4,9,318202,243756,116954,360084,2.08,Low
+Chris Taylor,47,Nurse,Kotak Mahindra,4,6,0,4,230837,94831,63231,264711,1.5,Standard
+Daniel Brown,33,Consultant,Union Bank,4,8,4,2,472404,300827,90129,483292,3.34,Low
+Chris Taylor,57,Analyst,Yes Bank,1,3,1,4,298833,236983,138494,331942,1.71,Low
+Sophia Brown,57,Accountant,Yes Bank,1,1,1,10,193303,86737,69470,225174,1.25,Standard
+Lily Lopez,28,Lawyer,ICICI Bank,2,7,4,8,307208,69226,146833,351144,0.47,Good
+Eva Thomas,51,Developer,Kotak Mahindra,4,4,0,0,130752,46758,131518,179794,0.36,Standard
+Jane Thomas,46,Teacher,Axis Bank,4,4,0,1,450932,165190,93485,468321,1.77,Standard
+Eva Jackson,57,Consultant,Axis Bank,5,7,4,10,409615,198919,65381,453648,3.04,Standard
+Sophia Martinez,56,Engineer,City Bank,3,3,0,2,217604,103716,125448,228962,0.83,Standard
+Sophia Taylor,23,Architect,Axis Bank,3,7,5,0,201968,75738,49385,238858,1.53,Standard
+Daniel Anderson,60,Teacher,ICICI Bank,1,10,2,8,219138,158539,142232,243572,1.11,Low
+Mike Jackson,26,Developer,ICICI Bank,5,6,6,2,56762,16017,116424,76044,0.14,Good
+Sophia Harris,46,Nurse,HDFC Bank,2,2,0,2,313917,104430,76818,356542,1.36,Standard
+Daniel Lopez,53,Developer,City Bank,5,2,1,7,90055,24309,34050,116069,0.71,Good
+John Harris,42,Architect,Bank of Baroda,3,3,3,9,324266,213417,105705,362493,2.02,Low
+Alex Thomas,21,Doctor,City Bank,2,3,1,3,211180,58118,77109,234700,0.75,Good
+Jane White,27,Doctor,Yes Bank,1,8,6,0,152944,40483,127565,168794,0.32,Good
+Eva Smith,50,Doctor,Axis Bank,3,1,0,4,400007,82467,55407,434765,1.49,Good
+Jane Lopez,33,Analyst,ICICI Bank,2,3,2,0,97594,28042,113720,114667,0.25,Good
+Eva Jackson,42,Teacher,IndusInd Bank,5,10,3,8,348967,84102,65903,394678,1.28,Good
+John Martinez,33,Lawyer,Kotak Mahindra,3,3,0,1,162205,122025,147862,201648,0.83,Low
+Sophia Lopez,31,Consultant,HDFC Bank,1,3,2,6,272346,89483,144831,316877,0.62,Standard
+Chris Brown,40,Doctor,ICICI Bank,4,2,2,2,309950,203750,52931,337337,3.85,Low
+Daniel Smith,25,Nurse,ICICI Bank,4,2,1,4,289571,162227,149318,322432,1.09,Standard
+Lily Anderson,55,Accountant,Bank of Baroda,3,7,3,1,490956,334568,146391,522661,2.29,Low
+Alex Smith,51,Doctor,City Bank,4,8,8,10,404690,101579,81252,453300,1.25,Good
+Chris White,57,Doctor,Union Bank,2,2,1,3,227540,72849,84695,255644,0.86,Standard
+Jane Anderson,47,Consultant,Union Bank,3,10,9,4,446520,300819,70543,469009,4.26,Low
+Sophia Harris,58,Accountant,Axis Bank,4,9,4,2,452652,214005,35387,500631,6.05,Standard
+Mike Harris,51,Lawyer,State Bank,2,1,0,0,485322,116932,98167,517818,1.19,Good
+Alex White,58,Nurse,Yes Bank,2,5,4,9,100506,65942,139336,118564,0.47,Low
+Lily Harris,32,Architect,Yes Bank,4,8,8,4,334393,135820,86814,374213,1.56,Standard
+Daniel Smith,22,Accountant,Kotak Mahindra,1,7,7,5,497151,211688,104273,529891,2.03,Standard
+John Smith,31,Developer,Union Bank,3,3,3,6,120510,46695,67802,137731,0.69,Standard
+Lily Brown,56,Consultant,City Bank,5,9,9,7,299514,160945,31092,342211,5.18,Standard
+Daniel Smith,45,Architect,ICICI Bank,4,10,6,9,404674,166587,119853,424316,1.39,Standard
+Sophia Smith,21,Analyst,State Bank,1,3,2,5,474439,306124,91121,494284,3.36,Low
+Sophia White,26,Accountant,HDFC Bank,3,6,3,5,79595,47498,98575,108586,0.48,Standard
+Emma Thomas,57,Doctor,Bank of Baroda,1,5,0,5,139013,29447,111762,185591,0.26,Good
+John Harris,47,Analyst,State Bank,5,7,4,0,414882,199898,117073,435538,1.71,Standard
+Sophia White,56,Accountant,HDFC Bank,3,10,1,7,102458,62962,69799,144362,0.9,Low
+Sophia Harris,52,Nurse,Axis Bank,2,10,4,5,278584,89441,67782,292818,1.32,Standard
+Daniel Anderson,38,Architect,Axis Bank,1,5,4,6,471843,158318,134829,501158,1.17,Standard
+Eva Brown,57,Nurse,Bank of Baroda,3,2,2,8,299177,136504,32043,338921,4.26,Standard
+Jane Thomas,52,Architect,IndusInd Bank,4,9,5,3,267219,117945,35367,291461,3.33,Standard
+Daniel Harris,55,Teacher,Kotak Mahindra,1,9,2,9,311726,102175,67095,360593,1.52,Standard
+Mike Martinez,59,Accountant,City Bank,5,1,0,5,292476,84422,46178,305962,1.83,Good
+Mike White,46,Nurse,City Bank,1,4,3,4,481861,179362,94011,511903,1.91,Standard
+Mike Lopez,35,Accountant,ICICI Bank,2,2,0,3,64524,22413,30667,102725,0.73,Standard
+Lily Harris,55,Accountant,ICICI Bank,4,1,0,2,192979,54393,76170,203021,0.71,Good
+Mike Martinez,31,Engineer,Axis Bank,4,1,0,1,214576,120369,36540,241053,3.29,Standard
+Chris Jackson,25,Accountant,Axis Bank,2,4,0,9,435079,217604,48051,468030,4.53,Standard
+Daniel Lopez,53,Architect,Bank of Baroda,4,2,0,9,114108,75758,145175,142672,0.52,Low
+Sophia Lopez,44,Lawyer,ICICI Bank,4,4,1,1,141831,46587,132926,184729,0.35,Standard
+Lily White,36,Analyst,Bank of Baroda,1,8,8,5,416801,320614,117205,463550,2.74,Low
+Daniel White,50,Lawyer,ICICI Bank,3,3,2,7,425217,178865,50321,440853,3.55,Standard
+John Lopez,22,Engineer,Bank of Baroda,2,5,4,6,212145,123759,123480,239883,1.0,Standard
+Jane Martinez,35,Consultant,HDFC Bank,4,1,1,4,207752,52800,48696,230644,1.08,Good
+Mike Anderson,30,Consultant,Kotak Mahindra,3,7,0,4,91992,63835,86629,140345,0.74,Low
+Lily White,41,Accountant,IndusInd Bank,1,3,2,8,84795,34860,40579,113853,0.86,Standard
+Daniel Jackson,49,Engineer,HDFC Bank,1,3,3,10,121351,24494,58686,133457,0.42,Good
+Mike Jackson,56,Doctor,City Bank,1,3,1,8,424113,331571,92020,457354,3.6,Low
+Eva White,40,Consultant,Bank of Baroda,4,3,2,2,410430,228122,62601,445742,3.64,Standard
+Mike Anderson,25,Accountant,HDFC Bank,3,3,3,6,487612,356252,85386,523768,4.17,Low
+John Smith,55,Analyst,City Bank,2,2,1,3,187249,116236,148510,203680,0.78,Low
+John White,59,Accountant,IndusInd Bank,5,5,1,1,242896,73373,147051,270017,0.5,Standard
+Jane Smith,53,Accountant,ICICI Bank,4,8,1,3,424112,136516,69586,473239,1.96,Standard
+Mike Harris,44,Teacher,HDFC Bank,4,4,4,3,482059,178256,70728,503416,2.52,Standard
+Chris Taylor,46,Teacher,HDFC Bank,1,5,2,3,373842,175925,103912,412403,1.69,Standard
+Sophia Lopez,49,Doctor,HDFC Bank,1,8,2,5,413343,181264,118987,444477,1.52,Standard
+Chris White,58,Architect,HDFC Bank,1,2,2,0,77322,30907,135431,125212,0.23,Standard
+Lily Jackson,58,Analyst,Union Bank,1,1,1,8,374879,160659,48242,397953,3.33,Standard
+Sophia Taylor,55,Engineer,Bank of Baroda,5,3,2,2,314108,155705,62770,333000,2.48,Standard
+Lily Taylor,25,Nurse,City Bank,5,7,2,4,111258,43164,84566,157583,0.51,Standard
+Lily Thomas,43,Accountant,City Bank,3,5,4,4,321042,124502,56151,350772,2.22,Standard
+Sophia Harris,29,Developer,State Bank,4,1,0,2,78608,26563,69976,94217,0.38,Standard
+Lily Thomas,30,Consultant,Yes Bank,4,2,1,0,281483,116509,68972,328619,1.69,Standard
+Lily Harris,51,Doctor,City Bank,2,2,1,1,156815,113049,112355,197037,1.01,Low
+Alex Martinez,37,Analyst,City Bank,5,4,4,0,325783,215052,101543,347800,2.12,Low
+Chris Brown,35,Consultant,Axis Bank,1,6,0,4,407203,321202,79278,445835,4.05,Low
+Chris Jackson,57,Doctor,Kotak Mahindra,3,3,0,1,291294,203445,42588,310377,4.78,Low
+Lily Thomas,58,Engineer,IndusInd Bank,3,1,1,5,433540,346785,99018,472500,3.5,Low
+Alex Anderson,23,Architect,Union Bank,3,1,0,8,365774,156857,120981,396303,1.3,Standard
+Mike Taylor,35,Accountant,ICICI Bank,1,1,0,2,253687,169386,96036,287119,1.76,Low
+Alex Brown,39,Consultant,Axis Bank,4,5,5,9,118832,49366,91391,152044,0.54,Standard
+Sophia Martinez,32,Consultant,Axis Bank,4,7,7,4,345204,193385,86055,385779,2.25,Standard
+Chris Jackson,59,Teacher,Kotak Mahindra,4,7,1,0,319138,129266,85116,356024,1.52,Standard
+Emma Taylor,51,Developer,Kotak Mahindra,5,2,1,7,279300,69130,90461,291113,0.76,Good
+Mike Taylor,28,Architect,Axis Bank,2,9,6,4,348076,79583,149610,394704,0.53,Good
+John Martinez,26,Developer,ICICI Bank,4,7,1,7,396478,250648,33463,434063,7.49,Low
+Sophia Thomas,57,Doctor,City Bank,5,1,0,10,292681,90067,41590,311894,2.17,Standard
+Chris Smith,25,Accountant,IndusInd Bank,3,6,4,7,447071,269206,110636,476888,2.43,Low
+Mike Jackson,31,Lawyer,Axis Bank,2,2,2,9,185957,134441,133105,211859,1.01,Low
+Chris Martinez,21,Engineer,Union Bank,4,2,0,2,393828,191507,106064,437395,1.81,Standard
+Eva Harris,39,Analyst,ICICI Bank,5,6,5,10,411912,249232,78904,430253,3.16,Low
+Jane Taylor,28,Engineer,City Bank,2,2,0,3,64058,20853,111381,109661,0.19,Standard
+Emma White,60,Developer,State Bank,2,2,1,7,127681,61848,147953,174746,0.42,Standard
+Jane Taylor,29,Consultant,ICICI Bank,4,8,0,7,356827,123311,145055,386051,0.85,Standard
+Eva White,23,Nurse,IndusInd Bank,1,2,2,6,267939,190014,37017,303672,5.13,Low
+Eva Martinez,38,Engineer,Kotak Mahindra,4,7,7,8,359874,228437,46506,396281,4.91,Low
+Emma Smith,53,Engineer,Union Bank,4,10,5,8,83297,30046,117828,93687,0.25,Standard
+Lily Brown,51,Analyst,HDFC Bank,3,8,6,0,134585,50174,90661,178533,0.55,Standard
+Lily Jackson,48,Lawyer,Kotak Mahindra,5,4,4,10,227813,171553,90322,241374,1.9,Low
+Alex Thomas,44,Accountant,Axis Bank,3,8,2,9,158636,58612,41096,172220,1.43,Standard
+Lily Taylor,31,Lawyer,Kotak Mahindra,2,10,7,1,466013,209515,65412,483028,3.2,Standard
+Mike Anderson,33,Developer,City Bank,1,1,1,4,237193,143776,73710,286143,1.95,Low
+Daniel Smith,24,Nurse,Kotak Mahindra,4,2,2,3,113275,60850,42766,142318,1.42,Standard
+Mike Jackson,42,Engineer,State Bank,5,5,1,8,366821,220713,104113,408374,2.12,Low
+Lily Harris,27,Doctor,City Bank,5,10,1,8,72004,36318,120517,103716,0.3,Standard
+Jane Anderson,43,Teacher,City Bank,3,8,8,7,434068,313525,143287,448056,2.19,Low
+Sophia Jackson,28,Doctor,Kotak Mahindra,2,8,6,0,178616,125190,45917,226929,2.73,Low
+Sophia Thomas,52,Teacher,HDFC Bank,1,5,2,6,239081,138109,118396,282558,1.17,Standard
+Alex Martinez,46,Lawyer,Yes Bank,2,7,6,6,290518,224020,126909,303992,1.77,Low
+Sophia Smith,48,Teacher,City Bank,1,9,1,1,227368,88419,121956,250807,0.73,Standard
+Chris Smith,45,Engineer,Yes Bank,2,10,0,10,424011,288091,97667,443458,2.95,Low
+Mike White,45,Developer,Yes Bank,3,6,2,0,483588,177897,103668,526048,1.72,Standard
+Eva Taylor,45,Consultant,Bank of Baroda,2,9,9,9,391855,182325,47878,416505,3.81,Standard
+Chris Anderson,39,Doctor,City Bank,1,9,5,6,430160,271572,147316,450303,1.84,Low
+Daniel Martinez,38,Lawyer,City Bank,1,9,8,4,323330,130763,69438,353704,1.88,Standard
+John Smith,54,Analyst,State Bank,3,4,2,6,314909,83849,124259,325331,0.67,Good
+Sophia Thomas,60,Developer,IndusInd Bank,3,2,0,10,115404,54152,135593,157186,0.4,Standard
+John Harris,41,Lawyer,HDFC Bank,5,10,10,10,329596,232925,111744,352749,2.08,Low
+Sophia Thomas,38,Analyst,HDFC Bank,2,7,3,1,221886,113133,45035,236286,2.51,Standard
+Sophia Harris,26,Teacher,City Bank,4,7,1,1,82607,37581,30004,102635,1.25,Standard
+Lily Anderson,48,Doctor,Union Bank,3,9,6,9,343060,175430,109140,360992,1.61,Standard
+Mike Lopez,51,Accountant,Kotak Mahindra,4,8,6,2,125678,63275,98134,142026,0.64,Standard
+Lily Taylor,52,Developer,Yes Bank,1,4,3,7,67095,43471,62401,90483,0.7,Low
+Sophia Brown,58,Accountant,City Bank,1,2,1,9,201828,45244,43579,242875,1.04,Good
+Jane Jackson,39,Nurse,IndusInd Bank,3,5,3,0,464818,132809,33231,507966,4.0,Good
+Chris Smith,39,Architect,Axis Bank,2,3,3,0,114135,60323,88171,149740,0.68,Standard
+John White,50,Analyst,IndusInd Bank,3,10,7,5,459652,195988,37294,477635,5.26,Standard
+Alex Taylor,52,Consultant,IndusInd Bank,4,8,2,5,96826,65831,69311,133339,0.95,Low
+Chris White,34,Accountant,Axis Bank,3,9,0,10,282310,181115,93402,304371,1.94,Low
+Alex Smith,56,Architect,IndusInd Bank,5,2,2,8,94644,29856,137514,120040,0.22,Standard
+Daniel Lopez,23,Analyst,Yes Bank,5,4,3,8,59785,16272,140326,105614,0.12,Good
+Alex Smith,37,Lawyer,Bank of Baroda,2,10,7,1,473059,246050,64114,511837,3.84,Standard
+Chris Lopez,22,Consultant,Yes Bank,1,6,3,2,267546,57371,142631,285619,0.4,Good
+Sophia White,36,Doctor,ICICI Bank,1,2,2,2,199606,57171,86669,219190,0.66,Good
+Jane Taylor,39,Accountant,ICICI Bank,2,1,1,2,64245,40345,113387,75664,0.36,Low
+Chris Brown,40,Teacher,State Bank,4,6,2,6,483974,357996,54223,503259,6.6,Low
+Emma Anderson,58,Analyst,ICICI Bank,2,8,8,8,251876,193847,137288,277649,1.41,Low
+John Jackson,49,Developer,State Bank,4,2,1,0,263644,152946,52383,307166,2.92,Standard
+Mike Martinez,57,Doctor,Axis Bank,2,9,2,4,347924,154495,127211,393751,1.21,Standard
+Daniel Anderson,29,Nurse,Yes Bank,5,3,1,8,272168,211423,56260,313373,3.76,Low
+Lily Smith,20,Consultant,Kotak Mahindra,5,5,5,2,50284,11872,92975,79291,0.13,Good
+Mike Lopez,36,Accountant,Yes Bank,3,4,4,8,197488,44887,67938,214042,0.66,Good
+Eva Brown,39,Doctor,HDFC Bank,4,2,0,8,196516,142861,107170,238822,1.33,Low
+Eva Martinez,40,Nurse,Bank of Baroda,3,8,4,3,397223,313732,78147,425257,4.01,Low
+Emma Harris,58,Nurse,State Bank,1,3,0,9,299838,60737,81273,335123,0.75,Good
+Alex White,55,Consultant,State Bank,4,9,1,10,391451,96498,121442,408485,0.79,Good
+Lily Brown,42,Accountant,State Bank,5,6,3,2,489954,323752,90812,527275,3.57,Low
+Jane Harris,43,Lawyer,Bank of Baroda,4,1,0,0,447631,165033,136626,485472,1.21,Standard
+Emma Brown,59,Architect,IndusInd Bank,2,4,3,5,69291,25531,49420,81124,0.52,Standard
+Emma Smith,32,Accountant,HDFC Bank,1,5,4,8,309004,93408,67148,348959,1.39,Standard
+Eva Lopez,56,Teacher,IndusInd Bank,1,10,2,1,116810,41558,45745,163786,0.91,Standard
+Emma Martinez,37,Lawyer,Kotak Mahindra,1,9,9,4,406872,218112,81043,417594,2.69,Standard
+John White,23,Nurse,Kotak Mahindra,4,7,4,1,406606,207766,106092,436447,1.96,Standard
+Sophia Martinez,22,Lawyer,Union Bank,1,5,3,8,285332,111207,34467,324461,3.23,Standard
+Emma Jackson,25,Analyst,Bank of Baroda,1,4,3,1,181063,57601,35587,214310,1.62,Standard
+Mike Brown,60,Doctor,Bank of Baroda,1,8,6,0,360656,244645,48258,401320,5.07,Low
+Mike Anderson,26,Consultant,HDFC Bank,2,6,6,0,480772,192382,145661,520810,1.32,Standard
+Jane Lopez,59,Consultant,Union Bank,1,8,1,1,81817,61365,66294,92414,0.93,Low
+Sophia Brown,28,Engineer,Axis Bank,4,1,1,9,378301,173679,50750,411746,3.42,Standard
+John Martinez,23,Architect,IndusInd Bank,4,7,1,9,444245,198429,95619,487223,2.08,Standard
+Eva Smith,49,Accountant,State Bank,4,7,1,5,391270,298363,57627,424131,5.18,Low
+Lily Martinez,41,Analyst,IndusInd Bank,2,2,0,0,362043,227356,148299,406453,1.53,Low
+Emma Lopez,28,Developer,City Bank,3,6,3,7,429911,246129,81199,473533,3.03,Standard
+Emma Taylor,22,Engineer,Bank of Baroda,2,5,4,6,319025,247514,38226,340460,6.48,Low
+Mike Lopez,54,Teacher,State Bank,2,8,4,9,229778,86084,115972,249700,0.74,Standard
+Daniel Lopez,29,Engineer,HDFC Bank,2,9,8,0,271281,110219,76119,318187,1.45,Standard
+Emma Brown,41,Lawyer,IndusInd Bank,4,8,5,9,346797,269752,74471,386909,3.62,Low
+Mike White,41,Teacher,HDFC Bank,1,8,0,7,165031,124099,123740,184208,1.0,Low
+Emma Harris,59,Lawyer,State Bank,2,8,5,6,157644,69393,66482,187496,1.04,Standard
+Sophia Smith,24,Nurse,IndusInd Bank,1,9,1,2,202345,93938,81633,216815,1.15,Standard
+Sophia Smith,21,Lawyer,Bank of Baroda,2,5,1,3,187362,118282,140012,229064,0.84,Low
+Daniel Anderson,31,Lawyer,City Bank,1,3,2,1,61006,42635,79351,101922,0.54,Low
+Chris Brown,41,Lawyer,City Bank,3,8,3,5,474404,200867,109408,496225,1.84,Standard
+Daniel Lopez,47,Doctor,Bank of Baroda,1,3,1,3,150496,78188,105502,193721,0.74,Standard
+Sophia Lopez,47,Lawyer,City Bank,1,10,9,3,497970,259582,131632,542404,1.97,Standard
+Sophia Anderson,23,Architect,Kotak Mahindra,2,9,9,7,159700,101630,63977,178181,1.59,Low
+Eva Brown,30,Developer,Bank of Baroda,4,9,5,7,322049,154120,121457,353287,1.27,Standard
+Sophia Martinez,50,Consultant,IndusInd Bank,4,5,4,6,384551,289456,107182,432609,2.7,Low
+John Anderson,34,Lawyer,Union Bank,4,4,3,3,210431,95749,75625,258736,1.27,Standard
+Eva Taylor,43,Architect,Bank of Baroda,5,2,0,1,204690,95529,110933,241151,0.86,Standard
+Emma Lopez,22,Consultant,Union Bank,5,10,5,6,286533,137688,38856,299477,3.54,Standard
+Sophia Harris,40,Architect,Axis Bank,4,1,0,7,172573,62018,33869,193004,1.83,Standard
+Sophia Brown,38,Developer,Axis Bank,5,9,1,4,169402,43883,60369,185728,0.73,Good
+Sophia Smith,54,Lawyer,ICICI Bank,3,4,2,4,208710,135062,117197,225671,1.15,Low
+Emma Lopez,28,Developer,Union Bank,3,1,1,4,481126,196290,95461,522348,2.06,Standard
+Chris Lopez,20,Consultant,HDFC Bank,5,3,3,3,168974,107130,72422,194147,1.48,Low
+Lily Anderson,53,Analyst,HDFC Bank,5,8,7,5,465191,117007,131153,490697,0.89,Good
+Chris White,33,Consultant,City Bank,4,9,0,5,122849,67138,43819,144252,1.53,Standard
+Mike Smith,51,Nurse,Yes Bank,3,4,3,6,409537,266844,125441,444708,2.13,Low
+Mike Jackson,57,Engineer,IndusInd Bank,5,1,0,2,223146,120703,129066,260674,0.94,Standard
+Eva Lopez,45,Accountant,Axis Bank,2,7,1,8,252602,79065,38437,266660,2.06,Standard
+Sophia Lopez,48,Architect,IndusInd Bank,1,3,0,10,339882,104202,110203,366297,0.95,Standard
+Lily Smith,31,Lawyer,Yes Bank,1,7,4,3,172179,64509,45004,184631,1.43,Standard
+Jane Harris,23,Nurse,Axis Bank,5,1,0,5,265409,115364,140992,280185,0.82,Standard
+Alex Martinez,46,Consultant,Kotak Mahindra,1,7,3,2,157833,60901,87872,192364,0.69,Standard
+Alex Lopez,56,Architect,State Bank,5,4,4,10,290625,106155,109499,302555,0.97,Standard
+Alex Harris,24,Accountant,Kotak Mahindra,5,4,4,5,348439,253505,52815,379486,4.8,Low
+Lily Lopez,22,Doctor,City Bank,3,8,5,4,255043,144818,44111,294502,3.28,Standard
+Chris Anderson,31,Analyst,Axis Bank,4,8,6,10,146177,90500,79496,164907,1.14,Low
+Chris Smith,35,Teacher,HDFC Bank,3,9,4,10,84993,52596,113544,132596,0.46,Low
+Lily White,55,Doctor,Union Bank,3,2,0,8,451887,301728,102937,474976,2.93,Low
+Lily Taylor,36,Lawyer,Kotak Mahindra,5,1,1,0,88375,51551,55653,114922,0.93,Standard
+Chris Jackson,45,Lawyer,City Bank,4,1,0,4,110126,68879,94369,148798,0.73,Low
+Sophia Harris,51,Consultant,Kotak Mahindra,1,2,2,10,177031,111202,118978,205780,0.93,Low
+Alex Harris,37,Teacher,Union Bank,2,1,0,2,204216,56055,59556,227401,0.94,Good
+Alex Brown,20,Architect,Yes Bank,2,8,5,2,163598,102845,127275,184220,0.81,Low
+Emma Harris,23,Developer,State Bank,1,7,4,7,77480,43305,86893,122117,0.5,Standard
+Chris Anderson,35,Nurse,State Bank,2,4,0,0,271083,58762,135994,293685,0.43,Good
+Sophia Anderson,24,Lawyer,Bank of Baroda,1,3,1,0,267936,135978,41274,316085,3.29,Standard
+Sophia Martinez,60,Lawyer,HDFC Bank,5,4,4,6,274332,74751,33177,290636,2.25,Good
+Jane Jackson,40,Teacher,HDFC Bank,1,7,5,0,254045,83241,56678,266223,1.47,Standard
+Jane Thomas,59,Nurse,Kotak Mahindra,1,2,0,6,208090,137449,136169,227301,1.01,Low
+Jane Martinez,56,Teacher,City Bank,3,2,2,5,380759,235229,147085,391102,1.6,Low
+Sophia Taylor,60,Nurse,Kotak Mahindra,4,2,1,0,369046,275774,77128,405786,3.58,Low
+Chris Martinez,60,Lawyer,Axis Bank,5,10,0,3,61121,34827,104487,106941,0.33,Standard
+Mike Anderson,47,Lawyer,HDFC Bank,5,2,0,2,246358,122991,143310,261074,0.86,Standard
+Alex White,33,Engineer,State Bank,2,10,7,5,120394,44170,74657,142538,0.59,Standard
+Daniel White,38,Engineer,HDFC Bank,2,6,2,3,157907,82678,119438,202520,0.69,Standard
+Emma Lopez,44,Developer,Kotak Mahindra,3,3,3,10,53168,12695,95034,75628,0.13,Good
+Jane Anderson,23,Teacher,HDFC Bank,2,3,0,2,360709,190926,139104,384306,1.37,Standard
+Emma Martinez,25,Accountant,IndusInd Bank,4,5,1,3,178411,81072,104759,219457,0.77,Standard
+Emma Thomas,38,Analyst,Bank of Baroda,4,4,2,7,91951,70858,95647,125026,0.74,Low
+Chris White,30,Consultant,Kotak Mahindra,4,7,6,2,479708,370457,76725,526322,4.83,Low
+John White,47,Doctor,ICICI Bank,3,10,8,2,339853,216143,141859,358888,1.52,Low
+Chris Harris,39,Consultant,Kotak Mahindra,3,7,7,1,224710,63367,135066,239111,0.47,Good
+Emma Taylor,32,Engineer,Union Bank,1,9,5,7,262103,197996,87524,300120,2.26,Low
+Sophia White,51,Architect,IndusInd Bank,5,2,1,0,115262,49666,111981,149911,0.44,Standard
+Alex Anderson,47,Architect,State Bank,3,9,7,10,410966,172979,144553,425610,1.2,Standard
+Chris White,35,Lawyer,City Bank,4,1,1,10,420440,254726,104599,435561,2.44,Low
+Mike Lopez,49,Teacher,State Bank,3,4,4,9,397395,280128,46671,441293,6.0,Low
+Jane Brown,44,Accountant,Union Bank,5,2,2,3,271744,81386,69089,288357,1.18,Good
+Mike Thomas,52,Developer,Axis Bank,4,10,4,6,444506,322640,45456,487189,7.1,Low
+Jane Lopez,42,Teacher,Kotak Mahindra,3,4,3,4,53366,42277,60221,66739,0.7,Low
+John Brown,24,Accountant,City Bank,5,7,4,6,139461,42653,108838,184885,0.39,Standard
+Alex Anderson,51,Teacher,HDFC Bank,5,2,1,9,476964,156227,73374,488441,2.13,Standard
+John Taylor,32,Architect,Axis Bank,4,8,1,10,137097,33984,59362,166095,0.57,Good
+Chris Brown,37,Doctor,Axis Bank,3,1,0,7,304381,183750,138547,330855,1.33,Low
+John Smith,37,Engineer,Union Bank,5,1,0,3,323853,218624,81173,357308,2.69,Low
+Eva Martinez,37,Consultant,Bank of Baroda,4,6,4,6,226449,95668,38906,246794,2.46,Standard
+Sophia Anderson,43,Accountant,State Bank,4,10,0,5,223148,152580,67757,238048,2.25,Low
+Lily White,28,Engineer,HDFC Bank,5,2,2,4,416616,271160,100047,464322,2.71,Low
+Sophia Harris,59,Consultant,Bank of Baroda,5,7,3,0,384534,297832,61640,428465,4.83,Low
+John Jackson,22,Nurse,Axis Bank,4,4,4,7,259801,167188,110117,302572,1.52,Low
+Sophia White,50,Doctor,Yes Bank,4,5,4,3,423262,121009,70925,459425,1.71,Good
+Eva Martinez,22,Teacher,Kotak Mahindra,4,2,1,10,337701,267571,111087,351413,2.41,Low
+Alex Harris,27,Consultant,Axis Bank,5,4,1,3,139355,90853,101557,156621,0.89,Low
+Jane White,21,Teacher,Kotak Mahindra,3,7,4,3,427054,151424,106385,467920,1.42,Standard
+Jane Taylor,54,Consultant,IndusInd Bank,1,6,6,3,351975,232234,64478,363939,3.6,Low
+Jane Jackson,44,Accountant,Axis Bank,5,7,3,3,185839,50068,34230,217993,1.46,Good
+Jane Brown,41,Analyst,Union Bank,2,2,2,5,116803,83164,85234,143900,0.98,Low
+Eva Smith,39,Engineer,Bank of Baroda,5,9,3,6,272140,106621,56281,304064,1.89,Standard
+Alex Martinez,58,Analyst,Bank of Baroda,2,2,1,0,332220,236347,146395,346112,1.61,Low
+Alex Thomas,34,Consultant,State Bank,4,3,2,2,441674,264656,48256,465058,5.48,Standard
+Eva Jackson,39,Developer,HDFC Bank,1,5,5,9,300757,174032,101707,332358,1.71,Standard
+Lily Thomas,44,Engineer,City Bank,3,3,1,3,417215,267616,129266,431299,2.07,Low
+Lily White,39,Teacher,Bank of Baroda,1,9,6,5,271478,164716,60882,313823,2.71,Low
+Chris White,24,Developer,Union Bank,3,5,5,3,417582,298050,39556,464534,7.53,Low
+Jane Taylor,40,Analyst,Kotak Mahindra,1,5,3,10,135823,74199,148531,185800,0.5,Standard
+Lily Thomas,29,Lawyer,Axis Bank,2,4,0,5,430610,307320,122155,442927,2.52,Low
+Alex White,47,Teacher,Axis Bank,1,2,1,7,144179,110591,75330,158816,1.47,Low
+Daniel Jackson,57,Accountant,Kotak Mahindra,2,7,3,0,112286,38684,84557,161486,0.46,Standard
+Mike Lopez,31,Accountant,Bank of Baroda,1,8,6,4,381524,225831,126900,396805,1.78,Standard
+John Brown,27,Doctor,IndusInd Bank,1,8,8,3,62072,34271,146328,108210,0.23,Standard
+Lily Thomas,26,Analyst,IndusInd Bank,2,7,7,10,418436,192562,92753,436920,2.08,Standard
+Alex Brown,40,Doctor,Yes Bank,5,3,3,0,256462,136857,65456,269197,2.09,Standard
+Daniel Harris,24,Developer,City Bank,5,9,1,3,395286,291943,43639,407619,6.69,Low
+Eva Taylor,20,Developer,City Bank,4,6,0,0,117536,64063,95089,160802,0.67,Standard
+Jane Martinez,36,Engineer,City Bank,1,2,2,4,240609,187619,59523,273563,3.15,Low
+Chris Smith,35,Architect,IndusInd Bank,1,9,4,10,330023,154105,86559,371322,1.78,Standard
+Lily Jackson,53,Nurse,State Bank,5,9,8,3,410673,106531,69769,435599,1.53,Good
+Emma Smith,32,Teacher,Bank of Baroda,3,4,1,9,339444,111889,32810,353071,3.41,Standard
+Mike Taylor,59,Accountant,City Bank,1,9,4,4,250163,147561,33454,273019,4.41,Standard
+Chris Harris,25,Architect,HDFC Bank,4,3,1,1,380075,243098,100016,429929,2.43,Low
+Sophia Lopez,52,Analyst,State Bank,2,7,2,5,463025,213073,142760,497888,1.49,Standard
+Eva Anderson,24,Architect,Bank of Baroda,1,9,1,10,337503,149875,119383,348688,1.26,Standard
+Jane Jackson,41,Architect,HDFC Bank,2,4,2,0,101352,43206,102416,142951,0.42,Standard
+Chris Brown,27,Teacher,IndusInd Bank,5,5,4,7,100090,51784,36834,135460,1.41,Standard
+Mike Martinez,37,Analyst,Bank of Baroda,1,1,0,5,444197,192665,130359,478919,1.48,Standard
+Daniel Martinez,58,Accountant,City Bank,4,10,2,4,54979,33647,121152,73186,0.28,Low
+Alex Taylor,44,Analyst,Kotak Mahindra,3,1,1,3,405580,229243,86324,443552,2.66,Standard
+Alex Harris,42,Consultant,HDFC Bank,5,5,2,6,322941,247052,102029,341969,2.42,Low
+Mike Brown,39,Accountant,Axis Bank,3,2,2,1,90209,57551,45149,128910,1.27,Low
+Alex Lopez,23,Doctor,City Bank,3,9,7,0,272289,165067,45465,306387,3.63,Low
+Lily Harris,52,Developer,State Bank,1,7,0,9,149711,111764,76109,172401,1.47,Low
+Chris Martinez,42,Lawyer,Yes Bank,5,10,0,9,285222,222128,74974,323830,2.96,Low
+Emma Taylor,24,Nurse,City Bank,2,9,5,0,271628,135082,37592,297236,3.59,Standard
+Sophia Brown,41,Lawyer,HDFC Bank,5,2,1,4,303296,114078,60413,319324,1.89,Standard
+John Lopez,45,Lawyer,State Bank,3,9,0,7,373878,265084,107151,384536,2.47,Low
+Sophia Smith,59,Consultant,City Bank,3,5,2,1,52702,21599,59769,89772,0.36,Standard
+Chris Jackson,20,Doctor,City Bank,4,8,3,1,327398,166512,127973,372539,1.3,Standard
+Chris Brown,51,Engineer,Bank of Baroda,2,5,1,7,257281,109238,104455,270281,1.05,Standard
+Chris Taylor,54,Architect,Union Bank,1,8,7,2,123334,50844,135089,134310,0.38,Standard
+John Jackson,32,Doctor,Bank of Baroda,2,5,0,2,256855,116261,144459,283233,0.8,Standard
+John Taylor,32,Consultant,City Bank,3,2,1,7,338423,168311,136511,352150,1.23,Standard
+Sophia White,52,Accountant,Yes Bank,2,2,0,0,116125,34062,40041,129837,0.85,Good
+John Anderson,23,Nurse,Kotak Mahindra,4,10,0,6,301759,112761,46608,340500,2.42,Standard
+Jane White,35,Analyst,ICICI Bank,2,9,2,3,197397,130289,53670,225917,2.43,Low
+Emma White,32,Consultant,IndusInd Bank,1,9,9,2,148916,118467,35730,179502,3.32,Low
+Alex Anderson,27,Teacher,IndusInd Bank,4,1,1,3,126655,57727,75831,176134,0.76,Standard
+Emma Brown,23,Accountant,Union Bank,4,9,4,10,171334,57065,115879,197340,0.49,Standard
+Lily Smith,52,Accountant,Bank of Baroda,1,5,0,4,240618,88628,68327,259119,1.3,Standard
+Chris Anderson,40,Engineer,HDFC Bank,2,1,0,0,396255,256319,109445,432326,2.34,Low
+Mike Harris,37,Analyst,ICICI Bank,1,7,2,4,307575,128612,92744,325595,1.39,Standard
+Jane Brown,20,Developer,Yes Bank,2,6,2,5,439510,293278,116060,454543,2.53,Low
+Eva Jackson,35,Architect,IndusInd Bank,2,10,6,1,105766,29434,40011,132163,0.74,Good
+Jane Smith,57,Lawyer,ICICI Bank,2,8,1,1,336564,192315,101256,360055,1.9,Standard
+Lily Anderson,54,Teacher,Yes Bank,1,3,1,6,338618,212301,94871,372011,2.24,Low
+Sophia Jackson,48,Doctor,Yes Bank,4,2,1,6,324602,246308,147655,349038,1.67,Low
+John Taylor,58,Architect,HDFC Bank,2,5,0,9,81873,55398,88135,111711,0.63,Low
+Chris Harris,54,Developer,Union Bank,1,3,3,8,251405,135130,78094,297541,1.73,Standard
+Chris Lopez,37,Lawyer,State Bank,2,1,0,9,164193,91171,68362,190197,1.33,Standard
+Daniel Harris,52,Developer,Axis Bank,3,5,1,4,421329,152146,99054,448862,1.54,Standard
+Alex Anderson,22,Developer,ICICI Bank,2,5,0,10,127667,97694,71793,173149,1.36,Low
+Alex Thomas,23,Lawyer,IndusInd Bank,2,9,1,0,390077,159338,95987,406917,1.66,Standard
