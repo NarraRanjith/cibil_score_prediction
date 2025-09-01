@@ -1,1 +1,19 @@
-key: val
+COLUMNS:
+ Name: object
+ Age: int64
+ Occupation: object
+ Bank: object
+ Number_of_Banks: int64
+ Number_of_Loans: int64
+ Due_Loans: int64
+ Hard_Checks: int64
+ Credit_Limit: int64
+ Credit_Usage: int64
+ Monthly_Income: int64
+ Total_Limit: int64
+ Debt_to_Income_Ratio: float64
+ Score_Category: object
+
+TARGET_COLUMN:
+ name: Score_Category
+  
