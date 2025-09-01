@@ -18,7 +18,6 @@ class DataValidationConfig:
     unzip_data_dir: Path
     all_schema: dict
 
-"""
 
 @dataclass(frozen=True)
 class DataTransformationConfig:
@@ -26,6 +25,7 @@ class DataTransformationConfig:
     data_path: Path
 
 
+"""
 
 @dataclass(frozen=True)
 class ModelTrainerConfig:
