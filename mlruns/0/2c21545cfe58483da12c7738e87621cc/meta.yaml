@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narra/OneDrive/Desktop/cibil_score_prediction/mlruns/0/2c21545cfe58483da12c7738e87621cc/artifacts
+end_time: 1756757138344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c21545cfe58483da12c7738e87621cc
+run_name: incongruous-steed-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756757138287
+status: 3
+tags: []
+user_id: narra

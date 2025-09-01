@@ -3,7 +3,7 @@ from mlProject import logger
 from sklearn.model_selection import train_test_split
 import pandas as pd
 from mlProject.entity.config_entity import DataTransformationConfig
-
+from sklearn.preprocessing import LabelEncoder
 
 
 class DataTransformation:
@@ -19,7 +19,11 @@ class DataTransformation:
 
     def train_test_spliting(self):
         data = pd.read_csv(self.config.data_path)
-
+        data = data.drop(columns=["Name","Occupation","Bank"],axis=1) 
+        # Encode the score category column to integers
+        if 'Score_Category' in data.columns:
+            le = LabelEncoder()
+            data['Score_Category'] = le.fit_transform(data['Score_Category'])
         # Split the data into training and test sets. (0.75, 0.25) split.
         train, test = train_test_split(data)
 

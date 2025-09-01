@@ -2,9 +2,9 @@ from mlProject.constants import *
 from mlProject.utils.common import read_yaml, create_directories
 from mlProject.entity.config_entity import (DataIngestionConfig,
                                             DataValidationConfig,
-                                            DataTransformationConfig)
-   #                                         ModelTrainerConfig,
-    #                                        ModelEvaluationConfig)
+                                            DataTransformationConfig,
+                                            ModelTrainerConfig,
+                                            ModelEvaluationConfig)
 
 class ConfigurationManager:
     def __init__(
@@ -66,10 +66,9 @@ class ConfigurationManager:
         return data_transformation_config
     
 
-"""
     def get_model_trainer_config(self) -> ModelTrainerConfig:
         config = self.config.model_trainer
-        params = self.params.ElasticNet
+        params = self.params.RandomForest
         schema =  self.schema.TARGET_COLUMN
 
         create_directories([config.root_dir])
@@ -79,8 +78,11 @@ class ConfigurationManager:
             train_data_path = config.train_data_path,
             test_data_path = config.test_data_path,
             model_name = config.model_name,
-            alpha = params.alpha,
-            l1_ratio = params.l1_ratio,
+            n_estimators = params.n_estimators,
+            max_depth = params.max_depth,
+            min_samples_split = params.min_samples_split,
+            min_samples_leaf = params.min_samples_leaf,
+            random_state = params.random_state,
             target_column = schema.name
             
         )
@@ -91,7 +93,7 @@ class ConfigurationManager:
 
     def get_model_evaluation_config(self) -> ModelEvaluationConfig:
         config = self.config.model_evaluation
-        params = self.params.ElasticNet
+        params = self.params.RandomForest
         schema =  self.schema.TARGET_COLUMN
 
         create_directories([config.root_dir])
@@ -103,8 +105,8 @@ class ConfigurationManager:
             all_params=params,
             metric_file_name = config.metric_file_name,
             target_column = schema.name,
-            mlflow_uri="https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow",
-           
+            mlflow_uri="https://dagshub.com/narraranjith22/cibil_score_prediction.mlflow",
+            
         )
 
-        return model_evaluation_config"""
+        return model_evaluation_config

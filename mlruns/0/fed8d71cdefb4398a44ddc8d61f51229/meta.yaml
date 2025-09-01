@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narra/OneDrive/Desktop/cibil_score_prediction/mlruns/0/fed8d71cdefb4398a44ddc8d61f51229/artifacts
+end_time: 1756754858096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fed8d71cdefb4398a44ddc8d61f51229
+run_name: defiant-swan-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756754858040
+status: 4
+tags: []
+user_id: narra

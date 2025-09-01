@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narra/OneDrive/Desktop/cibil_score_prediction/mlruns/0/3c10b548813e4de5bea110ea576c42f4/artifacts
+end_time: 1756755589716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c10b548813e4de5bea110ea576c42f4
+run_name: grandiose-dove-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756755589683
+status: 4
+tags: []
+user_id: narra

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narra/OneDrive/Desktop/cibil_score_prediction/mlruns/0/ffcc7adef8c04ce684bc4c11aa3c7059/artifacts
+end_time: 1756756218017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffcc7adef8c04ce684bc4c11aa3c7059
+run_name: colorful-crab-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756756217980
+status: 4
+tags: []
+user_id: narra

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narra/OneDrive/Desktop/cibil_score_prediction/mlruns/0/de5e77b361884d43ad54e51b9f4f8cd3/artifacts
+end_time: 1756756636285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de5e77b361884d43ad54e51b9f4f8cd3
+run_name: wise-horse-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756756636229
+status: 3
+tags: []
+user_id: narra

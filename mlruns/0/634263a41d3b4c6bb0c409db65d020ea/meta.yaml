@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narra/OneDrive/Desktop/cibil_score_prediction/mlruns/0/634263a41d3b4c6bb0c409db65d020ea/artifacts
+end_time: 1756756708899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 634263a41d3b4c6bb0c409db65d020ea
+run_name: beautiful-wasp-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756756708841
+status: 3
+tags: []
+user_id: narra

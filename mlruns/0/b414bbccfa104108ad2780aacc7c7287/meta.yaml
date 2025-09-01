@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narra/OneDrive/Desktop/cibil_score_prediction/mlruns/0/b414bbccfa104108ad2780aacc7c7287/artifacts
+end_time: 1756755539420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b414bbccfa104108ad2780aacc7c7287
+run_name: caring-bass-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756755539384
+status: 4
+tags: []
+user_id: narra

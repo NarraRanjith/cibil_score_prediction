@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/narra/OneDrive/Desktop/cibil_score_prediction/mlruns/0/a609aa375c7940998a7ac9e762d10c5a/artifacts
+end_time: 1756755438564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a609aa375c7940998a7ac9e762d10c5a
+run_name: sedate-colt-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756755438530
+status: 4
+tags: []
+user_id: narra

@@ -25,7 +25,6 @@ class DataTransformationConfig:
     data_path: Path
 
 
-"""
 
 @dataclass(frozen=True)
 class ModelTrainerConfig:
@@ -33,8 +32,11 @@ class ModelTrainerConfig:
     train_data_path: Path
     test_data_path: Path
     model_name: str
-    alpha: float
-    l1_ratio: float
+    n_estimators: int
+    max_depth: int
+    min_samples_split: int
+    min_samples_leaf: int
+    random_state: int
     target_column: str
 
 
@@ -48,4 +50,4 @@ class ModelEvaluationConfig:
     all_params: dict
     metric_file_name: Path
     target_column: str
-    mlflow_uri: str"""
+    mlflow_uri: str
