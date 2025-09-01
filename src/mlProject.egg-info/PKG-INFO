@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/NarraRanjith/cibil_score_prediction
+Author: NarraRanjith
+Author-email: narraranjith22@gmail.com
+Project-URL: Bug Tracker, https://github.com/NarraRanjith/cibil_score_prediction/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
