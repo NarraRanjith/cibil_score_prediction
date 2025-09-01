@@ -1,1 +1,164 @@
 [2025-09-01 14:43:37,096: INFO: main: Starting the main.py file]
+[2025-09-01 16:12:22,220: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-09-01 16:12:22,234: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-09-01 16:13:40,101: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-09-01 16:13:40,114: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-09-01 16:13:40,118: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-09-01 16:13:40,121: INFO: common: created directory at: artifacts]
+[2025-09-01 16:13:40,123: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-09-01 16:13:40,859: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Date: Mon, 01 Sep 2025 10:43:39 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With,Accept-Encoding, Accept, X-Requested-With
+x-repository-download: git clone https://github.com/NarraRanjith/cibil_score_prediction.git
+x-raw-download: https://raw.githubusercontent.com/NarraRanjith/cibil_score_prediction/main/dataset/cibil_score_dataset_final.zip
+ETag: W/"13db3d370706bf34a2dd959f937df976"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com wss://alive-staging.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/
+Server: github.com
+Accept-Ranges: bytes
+Set-Cookie: _gh_sess=5pFVx1TbjWbrl0hDGK12iwezrK4rTaYWwBNTwE%2BtS3zMJWym4g0LdQIC6F5UJox2NXAsXPEj%2BD0x23F1tltrNtBfmzvIO0kAlVSZ5%2FeEjwgnVtHDVn8fPoZ2vVEXbfcdk7%2BOpSwRE4WKT%2F6wj9%2Fo8n0lyxbGObCsUlFzEpLzlEsr01GApUo2y8EIbdiaJqF95mwLuWF2siZJrI6z5iw7IKNiVS16DcwyxrBD%2FKlEtxoNvBzkHH0XvsfwuMZC%2FvWFspklxOkOHSD2yNPLH3EcSg%3D%3D--6E0rTBgkNdx90VxR--AGIoFUaMaQj%2F0CmyQYieJA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1125077492.1756723419; Path=/; Domain=github.com; Expires=Tue, 01 Sep 2026 10:43:39 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Tue, 01 Sep 2026 10:43:39 GMT; HttpOnly; Secure; SameSite=Lax
+X-GitHub-Request-Id: F8F4:09D3:15875C1:1B5C70F:68B578DB
+connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-09-01 16:24:27,615: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-09-01 16:24:27,618: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-09-01 16:24:27,622: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-09-01 16:24:27,624: INFO: common: created directory at: artifacts]
+[2025-09-01 16:24:27,627: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-09-01 16:24:28,712: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Date: Mon, 01 Sep 2025 10:54:27 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With,Accept-Encoding, Accept, X-Requested-With
+x-repository-download: git clone https://github.com/NarraRanjith/cibil_score_prediction.git
+x-raw-download: https://raw.githubusercontent.com/NarraRanjith/cibil_score_prediction/main/dataset/cibil_score_dataset_final.zip
+ETag: W/"81f42b1afc79a648e4e93a7615bb27e8"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com wss://alive-staging.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/
+Server: github.com
+Accept-Ranges: bytes
+Set-Cookie: _gh_sess=DmyDGhXb4VW934%2F0ETmWPkMcgOi%2B9w9KH%2FoRI0lDGhdZ1xNhFYrPAfrIM4wSR2qMA5iT8eW8QMF0V4PLQmX%2BX53xor3meixGmd7Jb32gny0xarw7Zsbl0MqVt%2BO4P0DxBdSL4kzWA4kMLSCFydyBLhDtgolP3Y8pJVQPw0c4iCYvxNcQ2aHOhcCvMH%2FC%2FwIxuZXfDTXhm%2BV6dGbRPSGjWhJn5omVVqVMh1ZOUFgJ3VwPBEyR7A44z3QXUWL3EyghpgdiFUAuh6IMRLW2Ugal7g%3D%3D--9kov55qo3PfOoHli--Im5DOMHKs2JAOmR4peiPMw%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.992410628.1756724067; Path=/; Domain=github.com; Expires=Tue, 01 Sep 2026 10:54:27 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Tue, 01 Sep 2026 10:54:27 GMT; HttpOnly; Secure; SameSite=Lax
+X-GitHub-Request-Id: FE8F:3C4A50:304F3B:35CE73:68B57B63
+connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-09-01 16:29:18,046: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-09-01 16:29:18,050: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-09-01 16:29:18,053: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-09-01 16:29:18,055: INFO: common: created directory at: artifacts]
+[2025-09-01 16:29:18,058: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-09-01 16:29:18,845: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Date: Mon, 01 Sep 2025 10:59:17 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, X-Requested-With,Accept-Encoding, Accept, X-Requested-With
+x-repository-download: git clone https://github.com/NarraRanjith/cibil_score_prediction.git
+x-raw-download: https://raw.githubusercontent.com/NarraRanjith/cibil_score_prediction/6761d56dd851a04a793db981dac81fb90622f366/dataset/cibil_score_dataset_final.zip
+ETag: W/"549de2fb2b9e6f664dfdea661230f811"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com wss://alive-staging.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com release-assets.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com copilotprodattachments.blob.core.windows.net/github-production-copilot-attachments/ github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.githubassets.com github.com/assets-cdn/worker/ github.com/assets/ gist.github.com/assets-cdn/worker/
+Server: github.com
+Accept-Ranges: bytes
+Set-Cookie: _gh_sess=18%2BzD0t5DnGhnHkyp4uufqerQ8g3JU1YNhjS7icXMJhA8Mp14euG6Q3IFVmC1xA16ZWYjV%2BoGGYBajpnjCZqBK61Xlrc7qNU1Wvwa%2BAJYDpoHHBzfVzmZ15m3jnvuCRo8FX%2FrlpHjPxA5hJn2%2BysfyzYV5AhC7sKVpe1ZyWfjdKmfZKTh5JKRR0bGIB10Mxeec2rI7%2FTdAY9WRMHw8f8MvP17sLmmq8ftjeNvlgap1GIWzTnZGtvbfHui90mzQiysPED5KB%2FxbUwiBwp47axng%3D%3D--fk7Fmet%2B2p4QZhIT--H8qoBOG8qHWOkZctEKW3ZQ%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1358118383.1756724357; Path=/; Domain=github.com; Expires=Tue, 01 Sep 2026 10:59:17 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Tue, 01 Sep 2026 10:59:17 GMT; HttpOnly; Secure; SameSite=Lax
+X-GitHub-Request-Id: CA7A:09D3:15CF1B1:1BABB78:68B57C85
+connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-09-01 16:31:07,784: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-09-01 16:31:07,788: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-09-01 16:31:07,791: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-09-01 16:31:07,795: INFO: common: created directory at: artifacts]
+[2025-09-01 16:31:07,799: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-09-01 16:31:09,773: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 27904
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4fb1acb97b5a41e2ffd42359a858e551572d653831eb661e34cef80c56312aff"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2495:08F3:2AE1E8:6D3774:68B57CEE
+Accept-Ranges: bytes
+Date: Mon, 01 Sep 2025 11:01:08 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom-vanm7210065-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1756724469.517872,VS0,VE229
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 70eb4e59f8745720326fe6ae066e8973d2659ed8
+Expires: Mon, 01 Sep 2025 11:06:08 GMT
+Source-Age: 0
+
+]
+[2025-09-01 16:36:00,310: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-09-01 16:36:00,315: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-09-01 16:36:00,319: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-09-01 16:36:00,322: INFO: common: created directory at: artifacts]
+[2025-09-01 16:36:00,324: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-09-01 16:36:00,326: INFO: 2366278714: File already exists of size: ~ 27 KB]
+[2025-09-01 16:56:21,099: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-09-01 16:56:21,103: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-09-01 16:56:21,104: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-09-01 16:56:21,105: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-09-01 16:56:21,106: INFO: common: created directory at: artifacts]
+[2025-09-01 16:56:21,107: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-09-01 16:56:22,764: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 27904
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "4fb1acb97b5a41e2ffd42359a858e551572d653831eb661e34cef80c56312aff"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2386:E0FCA:B2A61:16337B:68B582DC
+Accept-Ranges: bytes
+Date: Mon, 01 Sep 2025 11:26:21 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom-vanm7210080-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1756725981.003995,VS0,VE223
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d54b0a865d45da67b25bc8277ecffbb43b9a659d
+Expires: Mon, 01 Sep 2025 11:31:21 GMT
+Source-Age: 0
+
+]
+[2025-09-01 16:56:22,793: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
