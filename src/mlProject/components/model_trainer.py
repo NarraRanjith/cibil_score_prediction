@@ -4,6 +4,8 @@ import os
 from sklearn.preprocessing import LabelEncoder
 from mlProject import logger
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.tree import DecisionTreeClassifier
 import joblib
 from mlProject.entity.config_entity import ModelTrainerConfig
 
@@ -24,16 +26,15 @@ class ModelTrainer:
 
         train_y = train_data[self.config.target_column]
         test_y = test_data[self.config.target_column]
-        # Encode target if it's categorical
-        
-        lr = RandomForestClassifier(
-            n_estimators=self.config.n_estimators,
-            max_depth=self.config.max_depth,
-            min_samples_split=self.config.min_samples_split,
-            min_samples_leaf=self.config.min_samples_leaf,
-            random_state=self.config.random_state
-        )
-        lr.fit(train_x, train_y)
 
-        joblib.dump(lr, os.path.join(self.config.root_dir, self.config.model_name))
+        # Dynamic model selection
+        MODEL_MAP = {
+            "RandomForest": RandomForestClassifier,
+            "KNN": KNeighborsClassifier,
+            "DecisionTree": DecisionTreeClassifier
+        }
+        model_cls = MODEL_MAP[self.config.model_type]
+        model = model_cls(**self.config.model_params)
+        model.fit(train_x, train_y)
+        joblib.dump(model, os.path.join(self.config.root_dir, self.config.model_name))
 

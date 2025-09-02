@@ -1,6 +1,16 @@
+model_type: KNN
 RandomForest:
   n_estimators: 100
   max_depth: 10
   min_samples_split: 2
   min_samples_leaf: 1
+  random_state: 42
+
+KNN:
+  n_neighbors: 5
+  algorithm: auto
+
+DecisionTree:
+  max_depth: 5
+  min_samples_split: 2
   random_state: 42

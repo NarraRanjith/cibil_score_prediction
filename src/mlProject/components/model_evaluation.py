@@ -32,6 +32,17 @@ class ModelEvaluation:
         test_x = test_data.drop([self.config.target_column], axis=1)
         test_y = test_data[self.config.target_column]  # Ensure 1D array for sklearn metrics
 
+        # Also get training accuracy
+        # Try to find the train.csv path (assume same folder as test_data_path, named train.csv)
+        train_path = os.path.join(os.path.dirname(self.config.test_data_path), 'train.csv')
+        train_accuracy = None
+        if os.path.exists(train_path):
+            train_data = pd.read_csv(train_path)
+            train_x = train_data.drop([self.config.target_column], axis=1)
+            train_y = train_data[self.config.target_column]
+            train_pred = model.predict(train_x)
+            train_accuracy = accuracy_score(train_y, train_pred)
+
         # Set MLflow tracking URI and registry URI if provided
         mlflow.set_tracking_uri(self.config.mlflow_uri)
         mlflow.set_registry_uri(self.config.mlflow_uri)
@@ -44,14 +55,18 @@ class ModelEvaluation:
 
             # Saving metrics as local
             scores = {
-                "accuracy": accuracy,
+                "test_accuracy": accuracy,
                 "confusion_matrix": cm.tolist(),
                 "classification_report": cr
             }
+            if train_accuracy is not None:
+                scores["train_accuracy"] = train_accuracy
             save_json(path=Path(self.config.metric_file_name), data=scores)
 
             mlflow.log_params(self.config.all_params)
-            mlflow.log_metric("accuracy", accuracy)
+            mlflow.log_metric("test_accuracy", accuracy)
+            if train_accuracy is not None:
+                mlflow.log_metric("train_accuracy", train_accuracy)
             # Log confusion matrix and classification report as artifacts or text, not as metrics
             mlflow.log_text(str(cm), "confusion_matrix.txt")
             mlflow.log_text(cr, "classification_report.txt")
