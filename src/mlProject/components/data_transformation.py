@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 import pandas as pd
 from mlProject.entity.config_entity import DataTransformationConfig
 from sklearn.preprocessing import LabelEncoder
-
+import joblib
 
 class DataTransformation:
     def __init__(self, config: DataTransformationConfig):
@@ -24,6 +24,10 @@ class DataTransformation:
         if 'Score_Category' in data.columns:
             le = LabelEncoder()
             data['Score_Category'] = le.fit_transform(data['Score_Category'])
+            # Save the fitted encoder for use in prediction
+            
+            encoder_path = os.path.join(self.config.root_dir, 'score_category_label_encoder.joblib')
+            joblib.dump(le, encoder_path)
         # Split the data into training and test sets. (0.75, 0.25) split.
         train, test = train_test_split(data)
 
