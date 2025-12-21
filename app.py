@@ -1,32 +1,32 @@
+"""Flask web application entrypoint for the CIBIL score demo."""
+
 from flask import Flask, render_template, request
-import os 
+import os
 import numpy as np
-import pandas as pd
 from mlProject.pipeline.prediction import PredictionPipeline
 
 
-app = Flask(__name__) # initializing a flask app
+app = Flask(__name__)  # initializing a flask app
 
-@app.route('/',methods=['GET'])  # route to display the home page
+
+@app.route('/', methods=['GET'])
 def homePage():
+    """Render the index page."""
     return render_template("index.html")
 
 
-
-@app.route('/train',methods=['GET'])  # route to train the pipeline
+@app.route('/train', methods=['GET'])
 def training():
+    """Trigger training via main.py (keeps behavior as original)."""
     os.system("python main.py")
-    return "Training Successful!" 
+    return "Training Successful!"
 
 
-@app.route('/predict',methods=['POST','GET']) # route to show the predictions in a web UI
+@app.route('/predict', methods=['POST', 'GET'])
 def index():
-    
+    """Handle prediction requests submitted from the web form."""
     if request.method == 'POST':
-        
         try:
-            # reading the inputs given by the user
-            
             required_fields = [
                 'name', 'age', 'occupation', 'bank', 'number_of_banks', 'number_of_loans',
                 'due_loans', 'hard_checks', 'credit_limit', 'credit_usage', 'monthly_income',
@@ -48,7 +48,7 @@ def index():
                 monthly_income = float(request.form['monthly_income']) if 'monthly_income' in request.form else 0.0
                 total_limit = float(request.form['total_limit'])
                 debt_to_income_ratio = float(request.form['debt_to_income_ratio'])
-            except ValueError as ve:
+            except ValueError:
                 return render_template('index.html', error="Please enter valid numeric values for numeric fields.")
 
             occupation = str(request.form['occupation'])
@@ -56,7 +56,7 @@ def index():
 
             data = [age, number_of_banks, number_of_loans, due_loans, hard_checks, credit_limit, credit_usage, monthly_income, total_limit, debt_to_income_ratio]
             data = np.array(data).reshape(1, 10)
-            
+
             obj = PredictionPipeline()
             predict = obj.predict(data)
             print(predict)
@@ -74,6 +74,7 @@ def index():
 def favicon():
     return '', 204
 
+
 if __name__ == "__main__":
-	# app.run(host="0.0.0.0", port = 8080, debug=True)
-	app.run(host="0.0.0.0", port = 8080)
+    # app.run(host="0.0.0.0", port = 8080, debug=True)
+    app.run(host="0.0.0.0", port=8080)
