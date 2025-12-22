@@ -1,0 +1,22 @@
+{
+    "test_accuracy": 0.864,
+    "confusion_matrix": [
+        [
+            26,
+            0,
+            13
+        ],
+        [
+            0,
+            77,
+            11
+        ],
+        [
+            4,
+            6,
+            113
+        ]
+    ],
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       0.87      0.67      0.75        39\n           1       0.93      0.88      0.90        88\n           2       0.82      0.92      0.87       123\n\n    accuracy                           0.86       250\n   macro avg       0.87      0.82      0.84       250\nweighted avg       0.87      0.86      0.86       250\n",
+    "train_accuracy": 0.9146666666666666
+}
