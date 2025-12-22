@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CIBIL Score Prediction — End-to-End ML Project
 
 Live demo: https://cibil-score-prediction-1.onrender.com/
@@ -95,9 +94,6 @@ Contributions are welcome! See `CONTRIBUTING.md` for the process. Create issues 
 
 This project is licensed under the MIT License — see the `LICENSE` file for details.
 =======
->>>>>>> c39f76dda383cf8393fd71c4331d539107036a41
-# End-to-end-Machine-Learning-Project-with-MLflow
-https://cibil-score-prediction-1.onrender.com/
 
 ## Workflows
 
